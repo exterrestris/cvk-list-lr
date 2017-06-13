@@ -115,9 +115,229 @@
 		Antartica		
 		Asia
 		Europe
+			Åland Islands
+			Albania
+				{Republic of Albania}
+			Andorra
+				{Principality of Andorra}
+			Austria
+				{Republic of Austria}
+			Belarus
+				{Republic of Belarus}
+			Belgium
+				{Kingdom of Belgium}
+			Bosnia and Herzegovina
+			Bulgaria
+				{Republic of Bulgaria}
+			Croatia
+				{Republic of Croatia}
+			Czech Republic
+			Denmark
+				{Kingdom of Denmark}
+			Estonia
+				{Republic of Estonia}
+			Faroe Islands
+			Finland
+				{Republic of Finland}
+			France
+				{French Republic}
+			Germany
+				{Federal Republic of Germany}
+			Gibraltar
+			Greece
+				{Hellenic Republic}
+			Guernsey
+				{Bailiwick of Guernsey}
+			Hungary
+			Iceland
+			Ireland
+				{Republic of Ireland}
+			Isle of Man
+				{Mann}
+			Italy
+				{Italian Republic}
+			Jersey
+				{Bailiwick of Jersey}
+			Latvia
+				{Republic of Latvia}
+			Liechtenstein
+				{Principality of Liechtenstein}
+			Lithuania
+				{Republic of Lithuania}
+			Luxembourg
+				{Grand Duchy of Luxembourg}
+			Macedonia
+				{Republic of Macedonia}
+			Malta
+				{Republic of Malta}
+			Moldova
+				{Republic of Moldova}
+			Monaco
+				{Principality of Monaco}
+			Montenegro
+			Netherlands
+				{Kingdom of the Netherlands}
+			Norway
+				{Kingdom of Norway}
+			Poland
+				{Republic of Poland}
+			Portugal
+				{Portuguese Republic}
+			Romania
+			Russia
+				{Russian Federation}
+			San Marino
+				{Republic of San Marino}
+			Serbia
+				{Republic of Serbia}
+			Slovakia
+				{Slovak Republic}
+			Slovenia
+				{Republic of Slovenia}
+			Spain
+				{Kingdom of Spain}
+			Sweden
+				{Kingdom of Sweden}
+			Switzerland
+				{Swiss Confederation}
+			Ukraine
+			United Kingdom
+				{United Kingdom of Great Britain and Northern Ireland}
+				{UK}
+			Vatican City
+				{Vatican City State}
 		North America
+			Anguilla
+			Antigua and Barbuda
+			Aruba
+			The Bahamas
+				{Commonwealth of The Bahamas}
+			Barbados
+			Belize
+			Bermuda
+			Bonaire
+			British Virgin Islands
+			Canada
+			Cayman Islands
+			Costa Rica
+				{Republic of Costa Rica}
+			Cuba
+				{Republic of Cuba}
+			Curaçao
+			Dominica
+				{Commonwealth of Dominica}
+			Dominican Republic
+			El Salvador
+				{Republic of El Salvador}
+			Greenland
+			Grenada
+			Guadeloupe
+			Guatemala
+				{Republic of Guatemala}
+			Haiti
+				{Republic of Haiti}
+			Honduras
+				{Republic of Honduras}
+			Jamaica
+			Martinique
+			Mexico
+				{United Mexican States}
+			Montserrat
+			Nicaragua
+				{Republic of Nicaragua}
+			Panama
+				{Republic of Panama}
+			Puerto Rico
+				{Commonwealth of Puerto Rico}
+			Saba
+			Saint Barthélemy
+				{Territorial collectivity of Saint-Barthélemy}
+			Saint Kitts and Nevis
+				{Federation of Saint Kitts and Nevis}
+			Saint Lucia
+			Saint Martin
+				{Collectivity of Saint Martin}
+			Saint Pierre and Miquelon
+				{Overseas Collectivity of Saint Pierre and Miquelon}
+			Saint Vincent and the Grenadines
+			Sint Eustatius
+			Sint Maarten
+			Trinidad and Tobago
+				{Republic of Trinidad and Tobago}
+			Turks and Caicos Islands
+			United States
+				{United States of America}
+				{USA}
+			United States Virgin Islands
+				{Virgin Islands of the United States}
 		Oceania
+			American Samoa
+			Australia
+				{Commonwealth of Australia}
+			Cook Islands
+			Fiji
+				{Republic of Fiji}
+			French Polynesia
+			Guam
+				{Territory of Guam}
+			Kiribati
+				{Republic of Kiribati}
+			Marshall Islands
+				{Republic of the Marshall Islands}
+			Micronesia
+				{Republic of the Marshall Islands}
+			Nauru
+				{Republic of Nauru}
+			New Zealand
+			Niue
+			Northern Mariana Islands
+				{Commonwealth of the Northern Mariana Islands}
+			Palau
+				{Republic of Palau}
+			Papua New Guinea
+				{Independent State of Papua New Guinea}
+			Pitcairn Islands
+				{Pitcairn, Henderson, Ducie and Oeno Islands}
+			Samoa
+				{Independent State of Samoa}
+			Solomon Islands
+			Tokelau
+			Tonga
+				{Kingdom of Tonga}
+			Tuvalu
+			Vanuatu
+				{Republic of Vanuatu}
+			Wallis and Futuna
+				{Territory of the Wallis and Futuna Islands}
 		South America
+			Argentina
+				{Argentine Republic}
+			Bolivia
+				{Plurinational State of Bolivia}
+			Brazil
+				{Federative Republic of Brazil}
+			Chile
+				{Republic of Chile}
+			Colombia
+				{Republic of Colombia}
+			Ecuador
+				{Republic of Ecuador}
+			Falkland Islands
+			French Guiana
+				{Guiana}
+			Guyana
+				{Co-operative Republic of Guyana}
+			Paraguay
+				{Republic of Paraguay}
+			Peru
+				{Republic of Peru}
+			South Georgia and the South Sandwich Islands
+			Suriname
+				{Republic of Suriname}
+			Uruguay
+				{Oriental Republic of Uruguay}
+			Venezuela
+				{Bolivarian Republic of Venezuela}
 	[«1.2» SEAS & OCEANS]
 		Artic Ocean
 		Atlantic Ocean
