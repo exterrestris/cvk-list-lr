@@ -1,4 +1,21 @@
 [«1» LOCATIONS]
+	[«1.1» GEOGRAPHIC]
+		Africa
+		Antartica
+		Asia
+		Europe
+		North America
+		Oceania
+		South America
+	[«1.2» SEAS & OCEANS]
+		Artic Ocean
+		Atlantic Ocean
+		Indian Ocean
+		Pacific Ocean
+		Southern Ocean
+			{Antarctic Ocean}
+	[«1.3» RIVERS & LAKES]
+	[«1.4» MOUNTAIN & MOUNTAIN RANGES]
 [«2» PEOPLE]
 [«3» SUBJECTS]
 [«4» DATES & TIMES]
