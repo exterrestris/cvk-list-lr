@@ -112,8 +112,105 @@
 				{Republic of Zambia}
 			Zimbabwe
 				{Republic of Zimbabwe}
-		Antartica		
+		Antartica
 		Asia
+			Afghanistan
+				{Islamic Republic of Afghanistan}
+			Armenia
+				{Republic of Armenia}
+			Azerbaijan
+				{Republic of Azerbaijan}
+			Bahrain
+				{Kingdom of Bahrain}
+			Bangladesh
+				{People's Republic of Bangladesh}
+			Bhutan
+				{Kingdom of Bhutan}
+			British Indian Ocean Territory
+			Brunei
+				{Nation of Brunei}
+			Cambodia
+				{Kingdom of Cambodia}
+			China
+				{People's Republic of China}
+			Cyprus
+				{Republic of Cyprus}
+			East Timor
+				{Timor-Leste}
+				{Democratic Republic of Timor-Leste}
+			Georgia
+			Hong Kong
+			India
+				{Republic of India}
+			Indonesia
+				{Republic of Indonesia}
+			Iran
+				{Islamic Republic of Iran}
+			Iraq
+				{Republic of Iraq}
+			Israel
+				{State of Israel}
+			Japan
+			Jordan
+				{The Hashemite Kingdom of Jordan}
+			Kazakhstan
+				{Republic of Kazakhstan}
+			Kuwait
+				{State of Kuwait}
+			Kyrgyzstan
+				{Kyrgyz Republic}
+			Laos
+				{Lao People's Democratic Republic}
+			Lebanon
+				{Lebanese Republic}
+			Macau
+			Malaysia
+			Maldives
+				{Republic of Maldives}
+			Mongolia
+			Myanmar
+				{Burma}
+				{Republic of the Union of Myanmar}
+			Nepal
+				{Federal Democratic Republic of Nepal}
+			North Korea
+				{Democratic People's Republic of Korea}
+			Oman
+				{Sultanate of Oman}
+			Pakistan
+				{Islamic Republic of Pakistan}
+			Palestine
+				{State of Palestine}
+			Philippines
+				{Republic of the Philippines}
+			Qatar
+				{State of Qatar}
+			Saudi Arabia
+				{Kingdom of Saudi Arabia}
+			Singapore
+				{Republic of Singapore}
+			South Korea
+				{Republic of Korea}
+			Sri Lanka
+				{Democratic Socialist Republic of Sri Lanka}
+			Syria
+				{Syrian Arab Republic}
+			Taiwan
+				{Republic of China}
+			Tajikistan
+				{Republic of Tajikistan}
+			Thailand
+				{Kingdom of Thailand}
+			Turkey
+				{Republic of Turkey}
+			Turkmenistan
+			United Arab Emirates
+			Uzbekistan
+				{Republic of Uzbekistan}
+			Vietnam
+				{Socialist Republic of Vietnam}
+			Yemen
+				{Republic of Yemen}
 		Europe
 			Åland Islands
 			Albania
@@ -204,6 +301,1865 @@
 			United Kingdom
 				{United Kingdom of Great Britain and Northern Ireland}
 				{UK}
+				Great Britain
+					{Britain}
+					England
+						[‹WATERWAYS›]
+							[‹CANALS›]
+								Ashby-de-la-Zouch Canal
+								Ashton Canal
+								Basingstoke Canal
+								Birmingham Canal Navigations
+									BCN Main Line
+									Birmingham and Fazeley Canal
+									Digbeth Branch Canal
+									Dudley Canal
+									Tame Valley Canal
+									Walsall Canal
+									Wednesbury Old Canal
+									Wyrley and Essington Canal
+								Bridgewater Canal
+								Bridgwater and Taunton Canal
+								Chesterfield Canal
+								Coventry Canal
+								Droitwich Canal
+								Erewash Canal
+								Gloucester and Sharpness Canal
+								Grand Union Canal
+									Paddington Arm
+										Little Venice
+									Slough Arm
+								Huddersfield Broad Canal
+								Huddersfield Narrow Canal
+								Kennet and Avon Canal
+								Lancaster Canal
+								Leeds and Liverpool Canal
+								Limehouse Cut
+								Llangollen Canal
+								Macclesfield Canal
+								Manchester Ship Canal
+								Montgomery Canal
+								Nottingham Canal
+								Oxford Canal
+								Peak Forest Canal
+								Pocklington Canal
+								Regent's Canal
+								Ripon Canal
+								Rochdale Canal
+								Royal Military Canal
+								Selby Canal
+								Shropshire Union Canal
+								Staffordshire and Worcestershire Canal
+								Stourbridge Canal
+								Stratford-upon-Avon Canal
+								Stroudwater Navigation
+								Trent and Mersey Canal
+								Wey and Arun Canal
+								Worcester and Birmingham Canal
+							[‹NAVIGATIONS›]
+								Aire and Calder Navigation
+								Beverley Beck
+								Calder and Hebble Navigation
+								Cambridgeshire Lodes
+								Chelmer and Blackwater Navigation
+								Driffield Navigation
+								Foss Dyke
+								Lee Navigation
+								Middle Level Navigations
+								Ribble Link
+								Sheffield and South Yorkshire Navigation
+								South Forty-Foot Drain
+								Stort Navigation
+								Wey and Godalming Navigations
+								Witham Navigable Drains
+							[‹RIVERS›]
+								River Avon
+								River Cam
+								River Great Ouse
+								River Ouse
+								River Severn
+								River Soar
+								River Thames
+								River Trent
+								River Weaver
+						[«REGIONS»]
+							East Midlands
+								Derbyshire
+									[«TOWNS & CITIES»]
+										Alfreton
+										Ashbourne
+										Bakewell
+										Belper
+										Bolsover
+										Buxton
+										Chapel-en-le-Frith
+										Chesterfield
+										Clay Cross
+										Darley Dale
+										Derby
+											{City of Derby}
+										Dronfield
+										Eckington
+										Glossop
+										Heanor
+										Ilkeston
+										Killamarsh
+										Langley Mill
+										Long Eaton
+										Matlock
+										Melbourne
+										Newhall
+										New Mills
+										Ripley
+										Sandiacre
+										Shirebrook
+										Staveley
+										Swadlincote
+										Whaley Bridge
+										Wirksworth
+								Leicestershire
+									[«TOWNS & CITIES»]
+										Ashby-de-la-Zouch
+										Braunstone Town
+										Castle Donington
+										Coalville
+										Earl Shiltom
+										Enderby
+										Hinckley
+										Leicester
+											{City of Leicester}
+										Loughborough
+										Lutterworth
+										Market Bosworth
+										Market Harborough
+										Melton Mowbray
+										Oadby
+										Shepshed
+										Syston
+										Wigston Magna
+								Lincolnshire
+									[«TOWNS & CITIES»]
+										Alford
+										Barton-upon-Humber
+										Boston
+										Bottesford
+										Bourne
+										Brigg
+										Broughton
+										Burgh-le-Marsh
+										Caistor
+										Cleethorpes
+										Crowland
+										Crowle
+										Epworth
+										Gainsborough
+										Grantham
+										Grimsby
+										Holbeach
+										Horncastle
+										Immingham
+										Kirton-in-Lindsey
+										Lincoln
+											{City of Lincoln}
+										Long Sutton
+										Louth
+										Mablethorpe
+										Market Deeping
+										Market Rasen
+										North Hykeham
+										Scunthorpe
+										Skegness
+										Sleaford
+										Spalding
+										Spilsby
+										Stamford
+										Wainfleet All Saints
+										Winterton
+										Wragby
+								Northamptonshire
+									[«TOWNS»]
+										Brackley
+										Burton Latimer
+										Corby
+										Daventry
+										Desborough
+										Higham Ferrers
+										Irthlingborough
+										Kettering
+										Northampton
+										Oundle
+										Raunds
+										Rothwell
+										Rushden
+										Thrapston
+										Towcester
+										Wellingborough
+								Nottinghamshire
+									[«TOWNS & CITIES»]
+										Arnold
+										Beeston
+										Bingham
+										Calverton
+										Carlton
+										Cotgrave
+										Eastwood
+										Harworth
+										Hucknall
+										Kimberley
+										Kirkby-in-Ashfield
+										Mansfield
+										Newark
+										Nottingham
+											{City of Nottingham}
+										Ollerton
+										Rainworth
+										Retford
+										Ruddington
+										Stapleford
+										Southwell
+										Sutton-in-Ashfield
+										West Bridgford
+										Worksop
+								Rutland
+									[«TOWNS»]
+										Oakham
+										Uppingham
+							East of England
+								Bedfordshire
+									[«TOWNS»]
+										Ampthill
+										Arlesey
+										Barton-le-Clay
+										Bedford
+										Biggleswade
+										Dunstable
+										Flitwick
+										Houghton Regis
+										Kempston
+										Leighton Buzzard
+										Linslade
+										Luton
+										Potton
+										Sandy
+										Shefford
+										Stotfold
+										Wixams
+								Cambridgeshire
+									[«TOWNS & CITIES»]
+										Cambridge
+											{City of Cambridge}
+										Cambourne
+										Chatteris
+										Ely
+											{City of Ely}
+										Godmanchester
+										Huntingdon
+										March
+										Peterborough
+											{City of Peterborough}
+										Ramsey
+										St Ives
+										St Neots
+										Soham
+										Whittlesey
+										Wisbech
+								Essex
+									[«TOWNS & CITIES»]
+										Aveley
+										Basildon
+										Billericay
+										Braintree
+										Brentwood
+										Brightlingsea
+										Buckhurst Hill
+										Burnham-on-Crouch
+										Canvey Island
+										Chelmsford
+											{City of Chelmsford}
+										Chigwell
+										Chipping Ongar
+										Clacton-on-Sea
+										Coggeshall
+										Colchester
+										Corringham
+										Dovercourt
+										Eastwood
+										Epping
+										Frinton-on-Sea
+										Grays
+										Great Dunmow
+										Hadleigh
+										Halstead
+										Harlow
+										Harwich
+										Holland-on-Sea
+										Ingatestone
+										Leigh-on-Sea
+										Loughton
+										Maldon
+										Manningtree
+										Pitsea
+										Purfleet
+										Rayleigh
+										Rochford
+										Saffron Walden
+										Shoeburyness
+										South Benfleet
+										Southend-on-Sea
+										South Woodham Ferrers
+										Southminster
+										Stanford-le-Hope
+										Thaxted
+										Tilbury
+										Waltham Abbey
+										Walton-on-the-Naze
+										West Mersea
+										West Thurrock
+										Wickford
+										Witham
+										Wivenhoe
+								Hertfordshire
+									[«TOWNS & CITIES»]
+										Baldock
+										Berkhamsted
+										Bishop's Stortford
+										Borehamwood
+										Broxbourne
+										Buntingford
+										Bushey
+										Cheshunt
+										Harpenden
+										Hatfield
+										Hemel Hempstead
+										Hertford
+										Hitchin
+										Hoddesdon
+										Letchworth
+										Potters Bar
+										Rickmansworth
+										Royston
+										Sawbridgeworth
+										St Albans
+											{City of St Albans}
+										Stevenage
+										Tring
+										Waltham Cross
+										Ware
+										Watford
+										Welwyn Garden City
+								Norfolk
+									[«TOWNS & CITIES»]
+										Acle
+										Attleborough
+										Aylsham
+										Cromer
+										Dereham
+										Diss
+										Downham Market
+										Fakenham
+										Great Yarmouth
+										Hingham
+										Holt
+										Hunstanton
+										King's Lynn
+										Loddon
+										North Walsham
+										Norwich
+											{City of Norwich}
+										Redenhall with Harleston
+										Reepham
+										Sheringham
+										Sprowston
+										Stalham
+										Swaffham
+										Thetford
+										Thorpe
+										St Andrew
+										Watton
+										Wells-next-the-Sea
+										Wymondham
+								Suffolk
+									[«TOWNS»]
+										Aldeburgh
+										Beccles
+										Brandon
+										Bungay
+										Bury St Edmunds
+										Carlton
+										Colville
+										Clare
+										Eye
+										Felixstowe
+										Framlingham
+										Hadleigh
+										Halesworth
+										Haverhill
+										Kesgrave
+										Leiston
+										Lowestoft
+										Mildenhall
+										Needham Market
+										Newmarket
+										Orford
+										Saxmundham
+										Southwold
+										Stowmarket
+										Sudbury
+										Woodbridge
+							Greater London
+								[«INNER LONDON»]
+									[Camden]
+										{London Borough of Camden}
+									City of London
+										30 St Mary Axe
+										Millennium Bridge
+										St Paul's Cathedral
+									[Greenwich]
+										{Royal Borough of Greenwich}
+										Greenwich
+										North Greenwich
+											Millennium Dome
+									[Hackney]
+										{London Borough of Hackney}
+									[Hammersmith and Fulham]
+										{London Borough of Hammersmith and Fulham}
+									[Islington]
+										{London Borough of Islington}
+									[Kensington and Chelsea]
+										{Royal Borough of Kensington and Chelsea}
+									[Lambeth]
+										{London Borough of Lambeth}
+										South Bank
+											London Eye
+									[Lewisham]
+										{London Borough of Lewisham}
+									[Southwark]
+										{London Borough of Southwark}
+										Borough Market
+										HMS Belfast
+									[Tower Hamlets]
+										{London Borough of Tower Hamlets}
+										Isle of Dogs
+											Canary Wharf
+										Tower of London
+									[Wandsworth]
+										{London Borough of Wandsworth}
+										Battersea
+											Battersea Park
+									[Westminster]
+										{City of Westminster}
+										Palace of Westminster
+											{Houses of Parliament}
+										West End
+											Carnaby Street
+											Oxford Street
+											Piccadilly Circus
+											Regent Street
+										Westminster Cathedral
+								[«OUTER LONDON»]
+									[Barking and Dagenham]
+										{London Borough of Barking and Dagenham}
+									[Barnet]
+										{London Borough of Barnet}
+									[Bexley]
+										{London Borough of Bexley}
+									[Brent]
+										{London Borough of Brent}
+									[Bromley]
+										{London Borough of Bromley}
+									[Croydon]
+										{London Borough of Croydon}
+									[Ealing]
+										{London Borough of Ealing}
+									[Enfield]
+										{London Borough of Enfield}
+									[Haringey]
+										{London Borough of Haringey}
+									[Harrow]
+										{London Borough of Harrow}
+									[Havering]
+										{London Borough of Havering}
+									[Hillingdon]
+										{London Borough of Hillingdon}
+									[Hounslow]
+										{London Borough of Hounslow}
+										Isleworth
+									[Kingston upon Thames]
+										{Royal Borough of Kingston upon Thames}
+										Kingston-upon-Thames
+										Surbiton
+									[Merton]
+										{London Borough of Merton}
+									[Newham]
+										{London Borough of Newham}
+									[Redbridge]
+										{London Borough of Redbridge}
+									[Richmond upon Thames]
+										{London Borough of Richmond upon Thames}
+										Hampton
+											Bushy Park
+										Hampton Court Palace
+										Richmond
+											Richmond Park
+										Teddington
+									[Sutton]
+										{London Borough of Sutton}
+									[Waltham Forest]
+										{London Borough of Waltham Forest}
+								London Underground
+								Tower Bridge
+							[North East]
+								{North East England}
+								County Durham
+									[«TOWNS & CITIES»]
+										Barnard Castle
+										Billingham 
+										Bishop Auckland
+										Chester-le-Street
+										Chilton
+										Consett
+										Crook
+										Darlington
+										Durham
+											{City of Durham}
+										Eaglescliffe 
+										Easington 
+										Easington Colliery
+										Ferryhill
+										Hartlepool
+										Middleton-in-Teesdale
+										Murton 
+										Newton Aycliffe
+										Peterlee 
+										Seaham 
+										Seaton Carew 
+										Sedgefield 
+										Shildon 
+										Spennymoor 
+										Stanhope
+										Stanley
+										Stockton-on-Tees
+										Tow Law
+										Willington
+										Wolsingham
+								Northumberland
+									[«TOWNS»]
+										Alnwick
+										Amble
+										Ashington
+										Bedlington
+										Berwick-upon-Tweed
+										Blyth
+										Cramlington
+										Haltwhistle
+										Hexham 
+										Morpeth
+										Newbiggin-by-the-Sea 
+										Ponteland 
+										Prudhoe
+										Rothbury
+										Wooler
+								Tyne and Wear
+									[«TOWNS & CITIES»]
+										Birtley
+										Blaydon-on-Tyne
+										Gateshead
+										Hebburn
+										Hetton-le-Hole
+										Houghton-le-Spring 
+										Jarrow
+										Killingworth 
+										Newcastle upon Tyne
+											{City of Newcastle upon Tyne}
+											{Newcastle}
+										North Shields
+										Ryton
+										South Shields
+										Sunderland
+											{City of Sunderland}
+										Tynemouth
+										Wallsend
+										Washington
+										Whickham
+										Whitley Bay
+							[North West]
+								{North West England}
+								Cheshire
+									[«TOWNS & CITIES»]
+										Alsager
+										Birchwood
+										Bollington
+										Chester
+											{City of Chester}
+										Congleton
+										Crewe 
+										Ellesmere Port
+										Frodsham 
+										Handforth
+										Knutsford 
+										Macclesfield
+										Middlewich
+										Nantwich
+										Neston
+										Northwich
+										Poynton 
+										Runcorn 
+										Sandbach
+										Warrington
+										Widnes
+										Wilmslow
+										Winsford
+								Cumbria
+									[«TOWNS & CITIES»]
+										Alston
+										Appleby-in-Westmorland
+										Aspatria
+										Barrow-in-Furness
+										Brampton
+										Carlisle
+											{City of Carlisle}
+										Cleator Moor
+										Cockermouth
+										Dalton-in-Furness
+										Egremont
+										Grange-over-Sands
+										Harrington
+										Kendal
+										Kirkby Lonsdale
+										Kirkby Stephen
+										Longtown
+										Maryport
+										Millom 
+										Penrith 
+										Sedbergh
+										Silloth 
+										Ulverston
+										Whitehaven
+										Wigton 
+										Workington
+									Lake District National Park
+										{Lakeland}
+										{Lake District}
+										[«ATTRACTIONS»]
+											Ravenglass and Eskdale Railway
+										[«FELLS»]
+											Helvellyn
+											Scafell
+											Scafell Pike
+											Skiddaw
+										[«LAKES»]
+											Bassenthwaite Lake
+											Brotherswater
+											Buttermere
+											Coniston Water
+											Crummock Water
+											Derwent Water
+											Devoke Water
+											Elter Water
+											Ennerdale Water
+											Esthwaite Water
+											Grasmere
+											Haweswater Reservoir
+											Hayeswater
+											Loweswater
+											Rydal Water
+											Thirlmere
+											Ullswater
+											Wast Water
+											Windermere
+										[«TOWNS»]
+											Ambleside
+											Bowness-on-Windermere
+											Broughton-in-Furness
+											Keswick
+											Windermere
+								Greater Manchester
+									[«TOWNS & CITIES»]
+										Altrincham
+										Ashton-in-Makerfield
+										Ashton-under-Lyne
+										Atherton
+										Audenshaw
+										Bolton
+										Bredbury
+										Bury
+										Chadderton
+										Clifton
+										Denton
+										Droylsden
+										Dukinfield
+										Eccles
+										Failsworth
+										Farnworth 
+										Golborne
+										Heywood 
+										Hindley
+										Horwich 
+										Hyde
+										Kearsley
+										Leigh
+										Manchester
+											{City of Manchester}
+										Marple 
+										Middleton
+										Milnrow 
+										Mossley
+										Oldham 
+										Partington
+										Pendlebury
+										Prestwich 
+										Radcliffe 
+										Ramsbottom
+										Rochdale 
+										Royton
+										Sale
+										Salford
+											{City of Salford}
+										Shaw & Crompton
+										Stalybridge
+										Standish 
+										Stockport 
+										Stretford 
+										Swinton
+										Tottington 
+										Tyldesley
+										Urmston 
+										Walkden
+										Westhoughton
+										Whitefield
+										Wigan 
+										Worsley
+								Lancashire
+									[«TOWNS & CITIES»]
+										Accrington
+										Adlington
+										Bacup
+										Barnoldswick
+										Blackburn
+										Blackpool
+										Brierfield
+										Burnley
+										Carnforth 
+										Chorley 
+										Cleveleys
+										Clitheroe
+										Colne
+										Darwen
+										Earby 
+										Fleetwood
+										Fulwood 
+										Garstang
+										Great Harwood
+										Haslingden
+										Kirkham
+										Lancaster 
+											{City of Lancaster}
+										Leyland 
+										Longridge 
+										Lytham St Annes
+										Morecambe 
+										Nelson
+										Ormskirk 
+										Oswaldtwistle
+										Padiham
+										Penwortham 
+										Poulton-le-Fylde
+										Preesall 
+										Preston 
+											{City of Preston}
+										Rawtenstall
+										Rishton 
+										Skelmersdale 
+										Waterfoot
+										Whitworth
+								Merseyside
+									[«TOWNS & CITIES»]
+										Bebington
+										Birkenhead
+										Bootle
+										Crosby 
+										Formby
+										Golborne 
+										Halewood
+										Heswall
+										Hoylake 
+										Huyton
+										Kirkby
+										Liverpool 
+											{City of Liverpool}
+										Maghull 
+										New Ferry
+										Newton-le-Willows
+										Prescot
+										Southport 
+										St Helens
+										Wallasey
+										West Kirby
+							[South East]
+								{South East England}
+								Berkshire
+									[«TOWNS»]
+										Ascot
+										Bracknell
+										Earley 
+										Eton 
+										Hungerford
+										Maidenhead
+										Newbury
+										Reading 
+										Sandhurst
+										Slough
+										Thatcham
+										Windsor
+								Buckinghamshire
+									[«TOWNS»]
+										Amersham
+										Aylesbury
+										Beaconsfield
+										Buckingham
+										Chesham
+										Gerrards Cross
+										High Wycombe
+										Marlow
+										Milton Keynes
+										Bletchley
+										Fenny Stratford
+										Stony Stratford
+										Wolverton 
+										Newport Pagnell
+										Olney
+										Princes Risborough
+										Wendover
+										Winslow
+										Woburn Sands
+								East Sussex
+									[«TOWNS & CITIES»]
+										Battle
+										Bexhill-on-Sea
+										Brighton and Hove
+											{City of Brighton and Hove}
+											Brighton
+											Hove 
+										Crowborough
+										Eastbourne
+										Hailsham 
+										Hastings 
+										Heathfield
+										Lewes
+										Newhaven
+										Peacehaven 
+										Polegate
+										Rye 
+										Seaford 
+										Telscombe
+										Uckfield
+										Wadhurst
+										Winchelsea
+								Hampshire
+									[«TOWNS & CITIES»]
+										Aldershot
+										Alton
+										Andover
+										Basingstoke
+										Bishop's Waltham
+										Blackwater
+										Bordon
+										Eastleigh
+										Emsworth
+										Fareham
+										Farnborough
+										Fleet
+										Fordingbridge
+										Gosport
+										Havant
+										Hedge End 
+										Hook 
+										Hythe
+										Lee-on-the-Solent
+										Lymington
+										New Alresford
+										New Milton
+										Petersfield
+										Portsmouth
+											{City of Portsmouth}
+										Ringwood
+										Romsey
+										Southampton
+											{City of Southampton}
+										Stockbridge
+										Tadley
+										Totton and Eling
+										Waterlooville
+										Whitchurch
+										Winchester
+											{City of Winchester}
+										Yateley
+								Isle of Wight
+									[«TOWNS»]
+										Brading
+										Cowes
+										East Cowes
+										Newport
+										Ryde
+										Sandown
+										Shanklin
+										Ventnor
+										Yarmouth
+								Kent
+									[«ATTRACTIONS»]
+										Romney Hythe & Dymchurch Railway
+									[«TOWNS & CITIES»]
+										Ashford
+										Broadstairs
+										Canterbury
+											{City of Canterbury}
+										Chatham 
+										Cranbrook
+										Dartford
+										Deal
+										Dover 
+										Edenbridge
+										Faversham 
+										Folkestone
+										Fordwich
+										Gillingham
+										Gravesend 
+										Greenhithe
+										Hawkinge
+										Herne Bay
+										Hythe
+										Lydd
+										Maidstone 
+										Margate
+										New Romney
+										Northfleet
+										Paddock Wood
+										Queenborough
+										Rainham 
+										Ramsgate 
+										Rochester
+										Royal Tunbridge Wells 
+										Sandwich 
+										Sevenoaks 
+										Sheerness 
+										Sittingbourne 
+										Snodland 
+										Southborough
+										Strood 
+										Swanley 
+										Swanscombe
+										Tenterden 
+										Tonbridge 
+										Walmer 
+										West Malling
+										Westerham
+										Westgate-on-Sea
+										Whitstable
+									[«VILLAGES»]
+										Dymchurch
+								Oxfordshire
+									[«TOWNS & CITIES»]
+										Abingdon
+										Banbury
+										Bicester
+										Burford
+										Carterton
+										Charlbury
+										Chipping Norton
+										Didcot
+										Faringdon
+										Henley-on-Thames
+										Oxford
+											{City of Oxford}
+										Thame
+										Wallingford
+										Wantage
+										Watlington
+										Witney
+										Woodstock
+								Surrey
+									[«ATTRACTIONS»]
+										British Wildlife Centre
+									[«TOWNS»]
+										Addlestone
+										Ashford
+										Banstead
+										Camberley
+										Caterham
+										Chertsey
+										Cobham
+										Dorking
+										Egham
+										Epsom 
+										Esher 
+										Farnham
+										Godalming
+										Guildford
+										Haslemere
+										Horley
+										Leatherhead
+										Lightwater
+										Molesey 
+										Oxted 
+										Redhill 
+										Reigate 
+										Shepperton 
+										Staines-upon-Thames
+											{Staines}
+										Sunbury-on-Thames
+										Virginia Water
+										Walton-on-Thames 
+										Weybridge
+										Woking
+									Runnymede
+								West Sussex
+									[«TOWNS & CITIES»]
+										Arundel
+										Bognor Regis
+										Burgess Hill 
+										Chichester
+											{City of Chichester}
+										Crawley 
+										East Grinstead
+										Haywards Heath
+										Horsham 
+										Littlehampton
+										Midhurst
+										Petworth 
+										Selsey
+										Shoreham-by-Sea
+										Southwick
+										Steyning
+										Worthing
+							[South West]
+								{South West England}
+								Bristol
+									{City of Bristol}
+									St Mary Redcliffe Church
+								Cornwall
+									[«TOWNS & CITIES»]
+										Bodmin
+										Bude
+										Callington
+										Camborne
+										Camelford 
+										Falmouth
+										Fowey
+										Hayle
+										Helston
+										Launceston 
+										Liskeard 
+										Looe 
+										Lostwithiel 
+										Marazion
+										Newlyn 
+										Newquay
+										Padstow
+										Par
+										Penryn
+										Penzance 
+										Porthleven 
+										Redruth 
+										Saltash
+										St Austell
+										St Blazey
+										St Columb Major
+										St Ives 
+										St Just
+										St Mawes
+										Stratton 
+										Torpoint
+										Truro
+											{City of Truro}
+										Wadebridge
+									Isles of Scilly
+								Devon
+									[«TOWNS & CITIES»]
+										Ashburton
+										Axminster
+										Bampton
+										Barnstaple
+										Bideford
+										Bovey Tracey
+										Bradninch
+										Brixham
+										Buckfastleigh
+										Budleigh Salterton
+										Chagford
+										Chudleigh
+										Chulmleigh
+										Crediton
+										Cullompton
+										Dartmouth
+										Dawlish
+										Exeter
+											{City of Exeter}
+										Exmouth
+										Great Torrington
+										Hartland
+										Hatherleigh
+										Holsworthy
+										Honiton
+										Ilfracombe
+										Ivybridge 
+										Kingsbridge
+										Kingsteignton
+										Lynton
+										Modbury
+										Moretonhampstead
+										Newton Abbot 
+										North Tawton
+										Northam
+										Okehampton
+										Ottery
+										St Mary 
+										Paignton
+										Plymouth 
+											{City of Plymouth}
+										Plympton 
+										Salcombe 
+										Seaton 
+										Sidmouth 
+										South Molton 
+										Tavistock 
+										Teignmouth 
+										Tiverton
+										Torquay 
+										Totnes
+								Dorset
+									[«TOWNS»]
+										Beaminster
+										Blandford Forum
+										Bournemouth
+										Bridport
+										Chickerell
+										Christchurch
+										Dorchester
+										Ferndown
+										Gillingham
+										Lyme Regis
+										Poole
+										Portland
+										Shaftesbury
+										Sherborne
+										Stalbridge 
+										Sturminster Newton
+										Swanage 
+										Upton
+										Verwood
+										Wareham
+										Weymouth
+										Wimborne Minster
+								Gloucestershire
+									[«TOWNS & CITIES»]
+										Berkeley
+										Bradley Stoke
+										Cheltenham 
+										Chipping Campden
+										Chipping Sodbury
+										Cinderford
+										Cirencester
+										Coleford 
+										Dursley
+										Fairford
+										Filton
+										Gloucester 
+											{City of Gloucester}
+										Kingswood 
+										Lechlade
+										Lydney
+										Minchinhampton
+										Mitcheldean
+										Moreton-in-Marsh
+										Nailsworth 
+										Newent 
+										Northleach
+										Painswick
+										Patchway 
+										Quedgeley 
+										Stonehouse 
+										Stow-on-the-Wold 
+										Stroud
+										Tetbury
+										Tewkesbury
+										Thornbury
+										Winchcombe
+										Wotton-under-Edge
+										Yate
+								Somerset
+									[«TOWNS & CITIES»]
+										Axbridge
+										Bath
+											{City of Bath}
+										Bridgwater
+										Bruton
+										Burnham-on-Sea
+										Castle Cary
+										Chard 
+										Clevedon
+										Crewkerne
+										Dulverton
+										Frome
+										Glastonbury 
+										Highbridge
+										Ilminster
+										Keynsham
+										Langport
+										Midsomer
+										Norton
+										Minehead
+										Nailsea 
+										North Petherton
+										Portishead 
+										Radstock 
+										Shepton Mallet
+										Somerton
+										Taunton
+										Watchet 
+										Wellington 
+										Wells
+											{City of Wells}
+										Weston-super-Mare
+										Wincanton 
+										Wiveliscombe 
+										Yeovil
+								Wiltshire
+									[«TOWNS & CITIES»]
+										Amesbury
+										Bradford on Avon
+										Bulford Camp
+										Calne
+										Chippenham
+										Corsham
+										Cricklade
+										Devizes 
+										Highworth 
+										Larkhill 
+										Ludgershall 
+										Malmesbury 
+										Marlborough
+										Melksham 
+										Mere
+										Royal Wootton Bassett 
+										Salisbury
+											{City of Salisbury}
+										Swindon
+										Tidworth
+										Tisbury
+										Trowbridge 
+										Warminster 
+										Westbury 
+										Wilton
+										Wroughton
+							West Midlands
+								Herefordshire
+									[«TOWNS & CITIES»]
+										Bromyard
+										Hereford
+											{City of Hereford}
+										Kington
+										Ledbury
+										Leominster
+										Ross-on-Wye
+								Shropshire
+									[«TOWNS»]
+										Bishop's Castle
+										Bridgnorth
+										Broseley
+										Church Stretton
+										Cleobury Mortimer
+										Clun
+										Craven Arms
+										Ellesmere
+										Ludlow
+										Market Drayton
+										Much Wenlock
+										Newport 
+										Oswestry 
+										Shifnal 
+										Shrewsbury 
+										Telford
+										Wem
+										Whitchurch
+								Staffordshire
+									[«TOWNS & CITIES»]
+										Biddulph 
+										Burntwood
+										Burton upon Trent
+										Cannock
+										Cheadle
+										Eccleshall
+										Fazeley
+										Hednesford 
+										Kidsgrove 
+										Leek
+										Lichfield
+											{City of Lichfield}
+										Newcastle-under-Lyme 
+										Penkridge
+										Rugeley
+										Stafford
+										Stoke-on-Trent
+											{City of Stoke-on-Trent}
+											Burslem
+											Fenton
+											Hanley
+											Longton
+											Stoke
+											Tunstall
+										Stone
+										Tamworth
+										Uttoxeter
+									Great Haywood
+								Warwickshire
+									[«TOWNS»]
+										Alcester
+										Atherstone
+										Bedworth
+										Coleshill
+										Henley-in-Arden
+										Kenilworth 
+										Nuneaton 
+										Royal Leamington Spa
+										Rugby 
+										Shipston-on-Stour
+										Southam 
+										Stratford-upon-Avon
+										Warwick 
+										Whitnash
+									[«VILLAGES»]
+										Wilmcote
+											Wilmcote Station
+								West Midlands
+									[«TOWNS & CITIES»]
+										Aldridge
+										Bilston
+										Birmingham
+											{City of Birmingham}
+										Blackheath
+										Bloxwich
+										Brierley Hill 
+										Brownhills
+										Coventry
+											{City of Coventry}
+										Cradley Heath 
+										Darlaston 
+										Dudley 
+										Fordbridge
+										Halesowen
+										Oldbury 
+										Rowley Regis
+										Smethwick
+										Solihull
+										Stourbridge 
+										Sutton Coldfield
+										Tipton
+										Walsall
+										Wednesbury
+										West Bromwich
+										Willenhall 
+										Wolverhampton
+											{City of Wolverhampton}
+								Worcestershire
+									[«TOWNS & CITIES»]
+										Bewdley
+										Bromsgrove
+										Droitwich Spa
+										Evesham
+										Kidderminster
+										Malvern 
+										Pershore 
+										Redditch
+										Stourport-on-Severn
+										Tenbury Wells
+										Upton-upon-Severn
+										Worcester
+											{City of Worcester}
+							Yorkshire and the Humber
+								East Riding of Yorkshire
+									[«TOWNS & CITIES»]
+										Beverley
+										Bridlington
+										Brough
+										Driffield 
+										Goole
+										Hedon
+										Hessle 
+										Hornsea
+										Howden
+										Kingston upon Hull
+											{City of Kingston upon Hull}
+											{Hull}
+										Market Weighton
+										Pocklington 
+										Snaith
+										Withernsea
+								North Yorkshire
+									[«TOWNS & CITIES»]
+										Bedale
+										Bentham
+										Boroughbridge
+										Catterick Garrison
+										Colburn
+										Easingwold
+										Eston
+										Filey
+										Grassington
+										Guisborough
+										Harrogate 
+										Hawes 
+										Haxby 
+										Helmsley 
+										Ingleby Barwick 
+										Kirkbymoorside
+										Knaresborough 
+										Leyburn 
+										Loftus
+										Malton 
+										Masham 
+										Middleham 
+										Middlesbrough
+										Northallerton 
+										Norton-on-Derwent
+										Pateley Bridge
+										Pickering
+										Redcar 
+										Richmond
+										Ripon 
+											{City of Ripon}
+										Saltburn-by-the-Sea 
+										Scarborough 
+										Selby
+										Settle
+										Skelton-in-Cleveland 
+										Skipton 
+										Stokesley
+										Tadcaster
+										Thirsk 
+										Thornaby-on-Tees 
+										Whitby 
+										Yarm 
+										York
+											{City of York}
+											Millennium Bridge
+											National Railway Museum
+											University of York
+											York Minster
+								South Yorkshire
+									[«TOWNS & CITIES»]
+										Askern
+										Barnsley
+										Bawtry 
+										Brierley
+										Conisbrough 
+										Dinnington
+										Doncaster
+										Edlington
+										Hatfield
+										Hoyland 
+										Kiveton Park
+										Maltby
+										Mexborough
+										Penistone
+										Rotherham 
+										Sheffield 
+											{City of Sheffield}
+										Stainforth
+										Stocksbridge
+										Swinton
+										Thorne 
+										Tickhill
+										Wath upon Dearne
+										Wombwell
+								West Yorkshire
+									[«TOWNS & CITIES»]
+										Baildon
+										Batley
+										Bingley
+										Bradford
+											{City of Bradford} 
+										Brighouse
+										Castleford 
+										Cleckheaton
+										Denholme
+										Dewsbury 
+										Elland
+										Farsley
+										Featherstone
+										Garforth 
+										Guiseley
+										Halifax 
+										Hebden Bridge
+										Heckmondwike
+										Hemsworth 
+										Holmfirth 
+										Horsforth 
+										Huddersfield
+										Ilkley 
+										Keighley
+										Knottingley 
+										Leeds 
+											{City of Leeds}
+										Liversedge
+										Meltham 
+										Mirfield
+										Morley 
+										Mytholmroyd
+										Normanton
+										Ossett
+										Otley
+										Pontefract
+										Pudsey
+										Rothwell 
+										Shipley
+										Silsden 
+										South Elmsall
+										Sowerby Bridge
+										Todmorden 
+										Wakefield
+											{City of Wakefield}
+										Warley Town 
+										Wetherby 
+										Yeadon
+					Scotland
+						[«CANALS & NAVIGATIONS»]
+						[«RIVERS»]
+							River Forth
+								Forth Bridge
+								Forth Road Bridge
+						City of Edinburgh
+							Edinburgh
+								[«ATTRACTIONS»]
+									Royal Botanic Garden
+								[«BUILDINGS»]
+									Balmoral Hotel
+									National Gallery of Scotland
+								Calton Hill
+									National Monument
+									Nelson's Monument
+								Dugald Stewart Monument
+								Holyrood Park
+									Arthur's Seat
+									Dunsapie Loch
+									Salisbury Crags
+									St Anthony's Chapel
+									St Margaret's Loch
+								Princes Street Gardens
+									Ross Fountain
+									Scott Monument
+									Scottish American War Memorial
+								Royal Mile
+									Edinburgh Castle
+									Palace of Holyrood House
+									St Giles' Cathedral
+								St Andrew's House
+							Leith
+								Royal Yacht Britannia
+							Portobello
+							South Queensferry
+						Fife
+							Inchcolm Island
+							North Queensferry
+						Western Isles
+							{Na h-Eileanan an Iar}
+							{Outer Hebrides}
+							[«BARRA & VATERSAY»]
+								Barra
+									{Eilean Bharraigh}
+									Castlebay
+										{Bàgh a' Chaisteil}
+								Vatersay
+									{Bhatarsaigh}
+							[«LEWIS & HARRIS»]
+								{Lewis and Harris}
+								{Leòdhas agus na Hearadh}
+								Great Bernera
+									{Beàrnaraigh Mòr}
+									Bostadh
+									Breaclete
+										{Breacleit}
+									Hacklete
+										{Tacleit}
+									Kirkibost
+										{Circebost}
+									Tobson
+								Harris
+									{Isle of Harris}
+									{Na Hearadh}
+									Hushinish
+										{Hùisinis}
+									Leverburgh
+										{An t-Òb}
+									Tarbert
+										{An Tairbeart}
+								Lewis
+									{Isle of Lewis}
+									{Leòdhas}
+									[«BACK»]
+										{Am Bac}
+										«Villages»
+											Back
+												{Am Bac}
+											Coll
+												{Col}
+											Gress
+												{Griais}
+											North Tolsta
+												{Tolastadh bho Thuath}
+											Tong
+												{Tunga}
+									[«NESS»]
+										{Nis}
+										«Villages»
+											Adabrock
+												{Adabroc}
+											Cross
+												{Cros}
+											Eorodale
+												{Eòradal}
+											Eoropie
+												{Eòrapaidh}
+											Fivepenny
+												{Na Còig Peighinnean}
+											Habost
+												{Tàbost}
+											Knockaird
+												{An Cnoc Àrd}
+											Lionel
+												{Lìonal}
+											North Dell
+												{Dail bho Thuath}
+											Port of Ness
+												{Port Nis}
+											Skigersta
+												{Sgiogarstaigh}
+											South Dell
+												{Dail-bho-Dheas}
+											Swainbost
+												{Suaineabost}
+										Butt of Lewis
+											{Rubha Robhanais}
+											Butt of Lewis Lighthouse
+									[«NORTH LOCHS»]
+										{Ceann a Tuath nan Loch}
+										«Villages»
+											Achmore
+												{An t-Acha Mòr}
+											Airidhbhruaich
+												{Arivruach}
+											Balallan
+												{Baile Ailein}
+											Crossbost
+												{Crosbost}
+											Grimshader
+												{Griomsidar}
+											Keose
+												{Ceos}
+											Keose Glebe
+												{Glib Cheois}
+											Laxay
+												{Lacasaidh}
+											Leurbost
+												{Liùrbost}
+											Ranish
+												{Ranais}
+									[«PARK»]
+										{A' Phàirc}
+										{South Lochs}
+										«Villages»
+											Calbost
+												{Calabost}
+											Cromore
+												{Cromor}
+											Eishken
+												{Eisgein}
+											Garyvard
+												{Gearraidh Bhaird}
+											Gravir
+												{Grabhair}
+											Habost
+												{Tàbost}
+											Kershader
+												{Cearsiadair}
+											Lemreway
+												{Leumrabhagh}
+											Marvig
+												{Marbhig}
+											Orinsay
+												{Orasaigh}
+											Shiltenish
+												{Sildinis}
+									[«POINT»]
+										{An Rubha}
+										«Villages»
+											Aignish
+												{Aiginis}
+											Aird
+											Branahuie
+												{Bràigh na h-Aoidhe}
+											Broker
+												{Brocair}
+											Eagleton
+												{Baile na h-Iolaire}
+											Flesherin
+												{Na Fleisirean}
+											Garrabost
+											Knock
+												{An Cnoc}
+											Lower Bayble
+												{Pabail Iarach}
+											Melbost
+												{Mealabost}
+											Portnaguran
+												{Port nan Giùran}
+											Portvoller
+												{Port Mholair}
+											Sheshader
+												{Seisiader}
+											Shulishader
+												{Siadar an Rubha}
+											Swordale
+												{Suardail}
+											Upper Bayble
+												{Pabail Uarach}
+										Tiumpan Head
+											{Rubha an Tiùmpain}
+											Tiumpan Head Lighthouse
+									[«STORNOWAY»]
+										Newmarket
+											{An Margaidh Ùr}
+										Stornoway
+											{Steòrnabhagh}
+											Lewis War Memorial
+											Lews Castle
+												{Caisteal Leòdhais}
+									[«UIG»]
+										«Villages»
+											Aird Uig
+												{Àird Ùig}
+											Ardroil
+												{Eadar Dhà Fhadhail}
+											Breasclete
+												{Brèascleit}
+											Brenish
+												{Brèinis}
+											Callanish
+												{Calanais}
+												Callanish Stones
+													{Callanish I}
+											Carishader
+												{Cairisiadar}
+											Carloway
+												{Càrlabhagh}
+												Dun Carloway
+													{Dùn Chàrlabhaigh}
+											Carnish
+												{Càrnais}
+											Cliff
+												{Cliobh}
+											Crowlista
+												{Cradhlasta}
+											Dalmore
+												{Dail Mòr}
+											Enaclete
+												{Eanacleit}
+											Garenin
+												{Na Gearrannan}
+												Garenin Blackhouse Village
+											Garynahine
+												{Gearraidh na h-aibhne}
+											Islivik
+												{Islibhig}
+											Kneep
+												{Cnip}
+											Mangursta
+												{Mhangarstadh}
+											Mealasta
+											Meavik
+												{Miabhaig}
+											Reef
+												{Riof}
+											Timsgarry
+												{Tuimisgearraidh}
+											Uigen
+												{Na h-Ùigean}
+											Valtos
+												{Bhaltos}
+										Uig Bay
+											{Camas Uig}
+									[«WEST SIDE»]
+										«Villages»
+											Arnol
+												{Àrnol}
+											Ballantrushal
+												{Baile an Truiseil}
+											Barvas
+												{Barabhas}
+											Borve
+												{Borgh}
+											Bragar
+												{Bràgar}
+											Brue
+												{Brù}
+											Dalbeg
+												{Dail Beag}
+											Shader
+												{Siadar}
+											Shawbost
+												{Siabost}
+									Callanish
+								Scalpay
+									{Sgalpaigh na Hearadh}
+								Scarp
+									{An Sgarp}
+							[«UISTS»]
+								Benbecula
+									{Beinn nam Fadhla}
+									Balivanich
+										{Baile a' Mhanaich}
+								Berneray
+									{Beàrnaraigh na Hearadh}
+								Eriskay
+									{Èirisgeigh}
+								North Uist
+									{Uibhist a Tuath}
+									Lochmaddy
+										{Loch nam Madadh}
+								South Uist
+									{Uibhist a Deas}
+									Lochboisdale
+										{Loch Baghasdail}
+					Wales
+						[‹CANALS›]
+							Llangollen Canal
+							Montgomery Canal
+						[‹RIVERS›]
+							River Severn
+				Northern Ireland
+					[Antrim]
+						{County Antrim}
+						{Contae Aontroma}
+						Belfast
+							{Béal Feirste}
+					[Armagh]
+						{County Armagh}
+						{Contae Ard Mhacha}
+					[Down]
+						{County Down}
+						{Contae an Dúin}
+					[Fermanagh]
+						{County Fermanagh}
+						{Contae Fhear Manach}
+					[Londonderry]
+						{County Londonderry}
+						{County Derry}
+						{Contae Dhoire}
+						Derry
+							{Londonderry}
+							{Doire}
+					[Tyrone]
+						{County Tyrone}
+						{Contae Thír Eoghain}
 			Vatican City
 				{Vatican City State}
 		North America
@@ -345,7 +2301,8 @@
 		Pacific Ocean
 		Southern Ocean
 			{Antarctic Ocean}
-	[«1.3» RIVERS & LAKES]
+	[«1.3» RIVERS, LAKES & WATERWAYS]
+		[Eu]
 	[«1.4» MOUNTAIN & MOUNTAIN RANGES]
 [«2» PEOPLE]
 [«3» SUBJECTS]
