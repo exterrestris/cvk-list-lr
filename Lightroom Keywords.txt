@@ -351,8 +351,8 @@
 							Offa's Dyke Path
 							Peddars Way & Norfolk Coast Path
 							Pennine Bridleway
-							Pennine Way 
-							The Ridgeway 
+							Pennine Way
+							The Ridgeway
 							South Downs Way
 							South West Coast Path
 							Thames Path
@@ -1157,7 +1157,7 @@
 								County Durham
 									[«TOWNS & CITIES»]
 										Barnard Castle
-										Billingham 
+										Billingham
 										Bishop Auckland
 										Chester-le-Street
 										Chilton
@@ -1166,20 +1166,20 @@
 										Darlington
 										Durham
 											{City of Durham}
-										Eaglescliffe 
-										Easington 
+										Eaglescliffe
+										Easington
 										Easington Colliery
 										Ferryhill
 										Hartlepool
 										Middleton-in-Teesdale
-										Murton 
+										Murton
 										Newton Aycliffe
-										Peterlee 
-										Seaham 
-										Seaton Carew 
-										Sedgefield 
-										Shildon 
-										Spennymoor 
+										Peterlee
+										Seaham
+										Seaton Carew
+										Sedgefield
+										Shildon
+										Spennymoor
 										Stanhope
 										Stanley
 										Stockton-on-Tees
@@ -1196,10 +1196,10 @@
 										Blyth
 										Cramlington
 										Haltwhistle
-										Hexham 
+										Hexham
 										Morpeth
-										Newbiggin-by-the-Sea 
-										Ponteland 
+										Newbiggin-by-the-Sea
+										Ponteland
 										Prudhoe
 										Rothbury
 										Wooler
@@ -1210,9 +1210,9 @@
 										Gateshead
 										Hebburn
 										Hetton-le-Hole
-										Houghton-le-Spring 
+										Houghton-le-Spring
 										Jarrow
-										Killingworth 
+										Killingworth
 										Newcastle upon Tyne
 											{City of Newcastle upon Tyne}
 											{Newcastle}
@@ -1236,18 +1236,18 @@
 										Chester
 											{City of Chester}
 										Congleton
-										Crewe 
+										Crewe
 										Ellesmere Port
-										Frodsham 
+										Frodsham
 										Handforth
-										Knutsford 
+										Knutsford
 										Macclesfield
 										Middlewich
 										Nantwich
 										Neston
 										Northwich
-										Poynton 
-										Runcorn 
+										Poynton
+										Runcorn
 										Sandbach
 										Warrington
 										Widnes
@@ -1279,13 +1279,13 @@
 										Kirkby Stephen
 										Longtown
 										Maryport
-										Millom 
-										Penrith 
+										Millom
+										Penrith
 										Sedbergh
-										Silloth 
+										Silloth
 										Ulverston
 										Whitehaven
-										Wigton 
+										Wigton
 										Windermere
 										Workington
 								Greater Manchester
@@ -1305,44 +1305,44 @@
 										Dukinfield
 										Eccles
 										Failsworth
-										Farnworth 
+										Farnworth
 										Golborne
-										Heywood 
+										Heywood
 										Hindley
-										Horwich 
+										Horwich
 										Hyde
 										Kearsley
 										Leigh
 										Manchester
 											{City of Manchester}
-										Marple 
+										Marple
 										Middleton
-										Milnrow 
+										Milnrow
 										Mossley
-										Oldham 
+										Oldham
 										Partington
 										Pendlebury
-										Prestwich 
-										Radcliffe 
+										Prestwich
+										Radcliffe
 										Ramsbottom
-										Rochdale 
+										Rochdale
 										Royton
 										Sale
 										Salford
 											{City of Salford}
 										Shaw & Crompton
 										Stalybridge
-										Standish 
-										Stockport 
-										Stretford 
+										Standish
+										Stockport
+										Stretford
 										Swinton
-										Tottington 
+										Tottington
 										Tyldesley
-										Urmston 
+										Urmston
 										Walkden
 										Westhoughton
 										Whitefield
-										Wigan 
+										Wigan
 										Worsley
 								Lancashire
 									[«TOWNS & CITIES»]
@@ -1354,37 +1354,37 @@
 										Blackpool
 										Brierfield
 										Burnley
-										Carnforth 
-										Chorley 
+										Carnforth
+										Chorley
 										Cleveleys
 										Clitheroe
 										Colne
 										Darwen
-										Earby 
+										Earby
 										Fleetwood
-										Fulwood 
+										Fulwood
 										Garstang
 										Great Harwood
 										Haslingden
 										Kirkham
-										Lancaster 
+										Lancaster
 											{City of Lancaster}
-										Leyland 
-										Longridge 
+										Leyland
+										Longridge
 										Lytham St Annes
-										Morecambe 
+										Morecambe
 										Nelson
-										Ormskirk 
+										Ormskirk
 										Oswaldtwistle
 										Padiham
-										Penwortham 
+										Penwortham
 										Poulton-le-Fylde
-										Preesall 
-										Preston 
+										Preesall
+										Preston
 											{City of Preston}
 										Rawtenstall
-										Rishton 
-										Skelmersdale 
+										Rishton
+										Skelmersdale
 										Waterfoot
 										Whitworth
 								Merseyside
@@ -1392,21 +1392,21 @@
 										Bebington
 										Birkenhead
 										Bootle
-										Crosby 
+										Crosby
 										Formby
-										Golborne 
+										Golborne
 										Halewood
 										Heswall
-										Hoylake 
+										Hoylake
 										Huyton
 										Kirkby
-										Liverpool 
+										Liverpool
 											{City of Liverpool}
-										Maghull 
+										Maghull
 										New Ferry
 										Newton-le-Willows
 										Prescot
-										Southport 
+										Southport
 										St Helens
 										Wallasey
 										West Kirby
@@ -1416,12 +1416,12 @@
 									[«TOWNS»]
 										Ascot
 										Bracknell
-										Earley 
-										Eton 
+										Earley
+										Eton
 										Hungerford
 										Maidenhead
 										Newbury
-										Reading 
+										Reading
 										Sandhurst
 										Slough
 										Thatcham
@@ -1440,7 +1440,7 @@
 										Bletchley
 										Fenny Stratford
 										Stony Stratford
-										Wolverton 
+										Wolverton
 										Newport Pagnell
 										Olney
 										Princes Risborough
@@ -1454,18 +1454,18 @@
 										Brighton and Hove
 											{City of Brighton and Hove}
 											Brighton
-											Hove 
+											Hove
 										Crowborough
 										Eastbourne
-										Hailsham 
-										Hastings 
+										Hailsham
+										Hastings
 										Heathfield
 										Lewes
 										Newhaven
-										Peacehaven 
+										Peacehaven
 										Polegate
-										Rye 
-										Seaford 
+										Rye
+										Seaford
 										Telscombe
 										Uckfield
 										Wadhurst
@@ -1487,8 +1487,8 @@
 										Fordingbridge
 										Gosport
 										Havant
-										Hedge End 
-										Hook 
+										Hedge End
+										Hook
 										Hythe
 										Lee-on-the-Solent
 										Lymington
@@ -1528,44 +1528,44 @@
 										Broadstairs
 										Canterbury
 											{City of Canterbury}
-										Chatham 
+										Chatham
 										Cranbrook
 										Dartford
 										Deal
-										Dover 
+										Dover
 										Edenbridge
-										Faversham 
+										Faversham
 										Folkestone
 										Fordwich
 										Gillingham
-										Gravesend 
+										Gravesend
 										Greenhithe
 										Hawkinge
 										Herne Bay
 										Hythe
 										Lydd
-										Maidstone 
+										Maidstone
 										Margate
 										New Romney
 										Northfleet
 										Paddock Wood
 										Queenborough
-										Rainham 
-										Ramsgate 
+										Rainham
+										Ramsgate
 										Rochester
-										Royal Tunbridge Wells 
-										Sandwich 
-										Sevenoaks 
-										Sheerness 
-										Sittingbourne 
-										Snodland 
+										Royal Tunbridge Wells
+										Sandwich
+										Sevenoaks
+										Sheerness
+										Sittingbourne
+										Snodland
 										Southborough
-										Strood 
-										Swanley 
+										Strood
+										Swanley
 										Swanscombe
-										Tenterden 
-										Tonbridge 
-										Walmer 
+										Tenterden
+										Tonbridge
+										Walmer
 										West Malling
 										Westerham
 										Westgate-on-Sea
@@ -1605,8 +1605,8 @@
 										Cobham
 										Dorking
 										Egham
-										Epsom 
-										Esher 
+										Epsom
+										Esher
 										Farnham
 										Godalming
 										Guildford
@@ -1614,16 +1614,16 @@
 										Horley
 										Leatherhead
 										Lightwater
-										Molesey 
-										Oxted 
-										Redhill 
-										Reigate 
-										Shepperton 
+										Molesey
+										Oxted
+										Redhill
+										Reigate
+										Shepperton
 										Staines-upon-Thames
 											{Staines}
 										Sunbury-on-Thames
 										Virginia Water
-										Walton-on-Thames 
+										Walton-on-Thames
 										Weybridge
 										Woking
 									Runnymede
@@ -1631,16 +1631,16 @@
 									[«TOWNS & CITIES»]
 										Arundel
 										Bognor Regis
-										Burgess Hill 
+										Burgess Hill
 										Chichester
 											{City of Chichester}
-										Crawley 
+										Crawley
 										East Grinstead
 										Haywards Heath
-										Horsham 
+										Horsham
 										Littlehampton
 										Midhurst
-										Petworth 
+										Petworth
 										Selsey
 										Shoreham-by-Sea
 										Southwick
@@ -1657,32 +1657,32 @@
 										Bude
 										Callington
 										Camborne
-										Camelford 
+										Camelford
 										Falmouth
 										Fowey
 										Hayle
 										Helston
-										Launceston 
-										Liskeard 
-										Looe 
-										Lostwithiel 
+										Launceston
+										Liskeard
+										Looe
+										Lostwithiel
 										Marazion
-										Newlyn 
+										Newlyn
 										Newquay
 										Padstow
 										Par
 										Penryn
-										Penzance 
-										Porthleven 
-										Redruth 
+										Penzance
+										Porthleven
+										Redruth
 										Saltash
 										St Austell
 										St Blazey
 										St Columb Major
-										St Ives 
+										St Ives
 										St Just
 										St Mawes
-										Stratton 
+										Stratton
 										Torpoint
 										Truro
 											{City of Truro}
@@ -1716,30 +1716,30 @@
 										Holsworthy
 										Honiton
 										Ilfracombe
-										Ivybridge 
+										Ivybridge
 										Kingsbridge
 										Kingsteignton
 										Lynton
 										Modbury
 										Moretonhampstead
-										Newton Abbot 
+										Newton Abbot
 										North Tawton
 										Northam
 										Okehampton
 										Ottery
-										St Mary 
+										St Mary
 										Paignton
-										Plymouth 
+										Plymouth
 											{City of Plymouth}
-										Plympton 
-										Salcombe 
-										Seaton 
-										Sidmouth 
-										South Molton 
-										Tavistock 
-										Teignmouth 
+										Plympton
+										Salcombe
+										Seaton
+										Sidmouth
+										South Molton
+										Tavistock
+										Teignmouth
 										Tiverton
-										Torquay 
+										Torquay
 										Totnes
 								Dorset
 									[«TOWNS»]
@@ -1757,9 +1757,9 @@
 										Portland
 										Shaftesbury
 										Sherborne
-										Stalbridge 
+										Stalbridge
 										Sturminster Newton
-										Swanage 
+										Swanage
 										Upton
 										Verwood
 										Wareham
@@ -1769,31 +1769,31 @@
 									[«TOWNS & CITIES»]
 										Berkeley
 										Bradley Stoke
-										Cheltenham 
+										Cheltenham
 										Chipping Campden
 										Chipping Sodbury
 										Cinderford
 										Cirencester
-										Coleford 
+										Coleford
 										Dursley
 										Fairford
 										Filton
-										Gloucester 
+										Gloucester
 											{City of Gloucester}
-										Kingswood 
+										Kingswood
 										Lechlade
 										Lydney
 										Minchinhampton
 										Mitcheldean
 										Moreton-in-Marsh
-										Nailsworth 
-										Newent 
+										Nailsworth
+										Newent
 										Northleach
 										Painswick
-										Patchway 
-										Quedgeley 
-										Stonehouse 
-										Stow-on-the-Wold 
+										Patchway
+										Quedgeley
+										Stonehouse
+										Stow-on-the-Wold
 										Stroud
 										Tetbury
 										Tewkesbury
@@ -1810,12 +1810,12 @@
 										Bruton
 										Burnham-on-Sea
 										Castle Cary
-										Chard 
+										Chard
 										Clevedon
 										Crewkerne
 										Dulverton
 										Frome
-										Glastonbury 
+										Glastonbury
 										Highbridge
 										Ilminster
 										Keynsham
@@ -1823,20 +1823,20 @@
 										Midsomer
 										Norton
 										Minehead
-										Nailsea 
+										Nailsea
 										North Petherton
-										Portishead 
-										Radstock 
+										Portishead
+										Radstock
 										Shepton Mallet
 										Somerton
 										Taunton
-										Watchet 
-										Wellington 
+										Watchet
+										Wellington
 										Wells
 											{City of Wells}
 										Weston-super-Mare
-										Wincanton 
-										Wiveliscombe 
+										Wincanton
+										Wiveliscombe
 										Yeovil
 								Wiltshire
 									[«TOWNS & CITIES»]
@@ -1847,23 +1847,23 @@
 										Chippenham
 										Corsham
 										Cricklade
-										Devizes 
-										Highworth 
-										Larkhill 
-										Ludgershall 
-										Malmesbury 
+										Devizes
+										Highworth
+										Larkhill
+										Ludgershall
+										Malmesbury
 										Marlborough
-										Melksham 
+										Melksham
 										Mere
-										Royal Wootton Bassett 
+										Royal Wootton Bassett
 										Salisbury
 											{City of Salisbury}
 										Swindon
 										Tidworth
 										Tisbury
-										Trowbridge 
-										Warminster 
-										Westbury 
+										Trowbridge
+										Warminster
+										Westbury
 										Wilton
 										Wroughton
 							West Midlands
@@ -1889,28 +1889,28 @@
 										Ludlow
 										Market Drayton
 										Much Wenlock
-										Newport 
-										Oswestry 
-										Shifnal 
-										Shrewsbury 
+										Newport
+										Oswestry
+										Shifnal
+										Shrewsbury
 										Telford
 										Wem
 										Whitchurch
 								Staffordshire
 									[«TOWNS & CITIES»]
-										Biddulph 
+										Biddulph
 										Burntwood
 										Burton upon Trent
 										Cannock
 										Cheadle
 										Eccleshall
 										Fazeley
-										Hednesford 
-										Kidsgrove 
+										Hednesford
+										Kidsgrove
 										Leek
 										Lichfield
 											{City of Lichfield}
-										Newcastle-under-Lyme 
+										Newcastle-under-Lyme
 										Penkridge
 										Rugeley
 										Stafford
@@ -1933,14 +1933,14 @@
 										Bedworth
 										Coleshill
 										Henley-in-Arden
-										Kenilworth 
-										Nuneaton 
+										Kenilworth
+										Nuneaton
 										Royal Leamington Spa
-										Rugby 
+										Rugby
 										Shipston-on-Stour
-										Southam 
+										Southam
 										Stratford-upon-Avon
-										Warwick 
+										Warwick
 										Whitnash
 									[«VILLAGES»]
 										Wilmcote
@@ -1953,26 +1953,26 @@
 											{City of Birmingham}
 										Blackheath
 										Bloxwich
-										Brierley Hill 
+										Brierley Hill
 										Brownhills
 										Coventry
 											{City of Coventry}
-										Cradley Heath 
-										Darlaston 
-										Dudley 
+										Cradley Heath
+										Darlaston
+										Dudley
 										Fordbridge
 										Halesowen
-										Oldbury 
+										Oldbury
 										Rowley Regis
 										Smethwick
 										Solihull
-										Stourbridge 
+										Stourbridge
 										Sutton Coldfield
 										Tipton
 										Walsall
 										Wednesbury
 										West Bromwich
-										Willenhall 
+										Willenhall
 										Wolverhampton
 											{City of Wolverhampton}
 								Worcestershire
@@ -1982,8 +1982,8 @@
 										Droitwich Spa
 										Evesham
 										Kidderminster
-										Malvern 
-										Pershore 
+										Malvern
+										Pershore
 										Redditch
 										Stourport-on-Severn
 										Tenbury Wells
@@ -1996,17 +1996,17 @@
 										Beverley
 										Bridlington
 										Brough
-										Driffield 
+										Driffield
 										Goole
 										Hedon
-										Hessle 
+										Hessle
 										Hornsea
 										Howden
 										Kingston upon Hull
 											{City of Kingston upon Hull}
 											{Hull}
 										Market Weighton
-										Pocklington 
+										Pocklington
 										Snaith
 										Withernsea
 								North Yorkshire
@@ -2021,39 +2021,39 @@
 										Filey
 										Grassington
 										Guisborough
-										Harrogate 
-										Hawes 
-										Haxby 
-										Helmsley 
-										Ingleby Barwick 
+										Harrogate
+										Hawes
+										Haxby
+										Helmsley
+										Ingleby Barwick
 										Kirkbymoorside
-										Knaresborough 
-										Leyburn 
+										Knaresborough
+										Leyburn
 										Loftus
-										Malton 
-										Masham 
-										Middleham 
+										Malton
+										Masham
+										Middleham
 										Middlesbrough
-										Northallerton 
+										Northallerton
 										Norton-on-Derwent
 										Pateley Bridge
 										Pickering
-										Redcar 
+										Redcar
 										Richmond
-										Ripon 
+										Ripon
 											{City of Ripon}
-										Saltburn-by-the-Sea 
-										Scarborough 
+										Saltburn-by-the-Sea
+										Scarborough
 										Selby
 										Settle
-										Skelton-in-Cleveland 
-										Skipton 
+										Skelton-in-Cleveland
+										Skipton
 										Stokesley
 										Tadcaster
-										Thirsk 
-										Thornaby-on-Tees 
-										Whitby 
-										Yarm 
+										Thirsk
+										Thornaby-on-Tees
+										Whitby
+										Yarm
 										York
 											{City of York}
 											Millennium Bridge
@@ -2064,25 +2064,25 @@
 									[«TOWNS & CITIES»]
 										Askern
 										Barnsley
-										Bawtry 
+										Bawtry
 										Brierley
-										Conisbrough 
+										Conisbrough
 										Dinnington
 										Doncaster
 										Edlington
 										Hatfield
-										Hoyland 
+										Hoyland
 										Kiveton Park
 										Maltby
 										Mexborough
 										Penistone
-										Rotherham 
-										Sheffield 
+										Rotherham
+										Sheffield
 											{City of Sheffield}
 										Stainforth
 										Stocksbridge
 										Swinton
-										Thorne 
+										Thorne
 										Tickhill
 										Wath upon Dearne
 										Wombwell
@@ -2092,49 +2092,49 @@
 										Batley
 										Bingley
 										Bradford
-											{City of Bradford} 
+											{City of Bradford}
 										Brighouse
-										Castleford 
+										Castleford
 										Cleckheaton
 										Denholme
-										Dewsbury 
+										Dewsbury
 										Elland
 										Farsley
 										Featherstone
-										Garforth 
+										Garforth
 										Guiseley
-										Halifax 
+										Halifax
 										Hebden Bridge
 										Heckmondwike
-										Hemsworth 
-										Holmfirth 
-										Horsforth 
+										Hemsworth
+										Holmfirth
+										Horsforth
 										Huddersfield
-										Ilkley 
+										Ilkley
 										Keighley
-										Knottingley 
-										Leeds 
+										Knottingley
+										Leeds
 											{City of Leeds}
 										Liversedge
-										Meltham 
+										Meltham
 										Mirfield
-										Morley 
+										Morley
 										Mytholmroyd
 										Normanton
 										Ossett
 										Otley
 										Pontefract
 										Pudsey
-										Rothwell 
+										Rothwell
 										Shipley
-										Silsden 
+										Silsden
 										South Elmsall
 										Sowerby Bridge
-										Todmorden 
+										Todmorden
 										Wakefield
 											{City of Wakefield}
-										Warley Town 
-										Wetherby 
+										Warley Town
+										Wetherby
 										Yeadon
 					Scotland
 						[‹NATIONAL PARKS›]
