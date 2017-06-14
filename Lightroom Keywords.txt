@@ -304,6 +304,59 @@
 				Great Britain
 					{Britain}
 					England
+						[‹NATIONAL PARKS›]
+							Exmoor National Park
+							South Downs National Park
+							North York Moors National Park
+							Yorkshire Dales National Park
+							Lake District National Park
+								{Lakeland}
+								{Lake District}
+								[«FELLS»]
+									Helvellyn
+									Scafell
+									Scafell Pike
+									Skiddaw
+								[«LAKES»]
+									Bassenthwaite Lake
+									Brotherswater
+									Buttermere
+									Coniston Water
+									Crummock Water
+									Derwent Water
+									Devoke Water
+									Elter Water
+									Ennerdale Water
+									Esthwaite Water
+									Grasmere
+									Haweswater Reservoir
+									Hayeswater
+									Loweswater
+									Rydal Water
+									Thirlmere
+									Ullswater
+									Wast Water
+									Windermere
+							Peak District National Park
+							Northumberland National Park
+							The Broads
+							Dartmoor National Park
+							New Forest National Park
+						[‹NATIONAL TRAILS›]
+							Cleveland Way
+							Cotswold Way
+							England Coast Path
+							Hadrian's Wall Path
+							North Downs Way
+							Offa's Dyke Path
+							Peddars Way & Norfolk Coast Path
+							Pennine Bridleway
+							Pennine Way 
+							The Ridgeway 
+							South Downs Way
+							South West Coast Path
+							Thames Path
+							Yorkshire Wolds Way
 						[‹WATERWAYS›]
 							[‹CANALS›]
 								Ashby-de-la-Zouch Canal
@@ -910,12 +963,17 @@
 										Wilmslow
 										Winsford
 								Cumbria
+									[«ATTRACTIONS»]
+										Ravenglass and Eskdale Railway
 									[«TOWNS & CITIES»]
 										Alston
+										Ambleside
 										Appleby-in-Westmorland
 										Aspatria
 										Barrow-in-Furness
+										Bowness-on-Windermere
 										Brampton
+										Broughton-in-Furness
 										Carlisle
 											{City of Carlisle}
 										Cleator Moor
@@ -925,6 +983,7 @@
 										Grange-over-Sands
 										Harrington
 										Kendal
+										Keswick
 										Kirkby Lonsdale
 										Kirkby Stephen
 										Longtown
@@ -936,43 +995,8 @@
 										Ulverston
 										Whitehaven
 										Wigton 
+										Windermere
 										Workington
-									Lake District National Park
-										{Lakeland}
-										{Lake District}
-										[«ATTRACTIONS»]
-											Ravenglass and Eskdale Railway
-										[«FELLS»]
-											Helvellyn
-											Scafell
-											Scafell Pike
-											Skiddaw
-										[«LAKES»]
-											Bassenthwaite Lake
-											Brotherswater
-											Buttermere
-											Coniston Water
-											Crummock Water
-											Derwent Water
-											Devoke Water
-											Elter Water
-											Ennerdale Water
-											Esthwaite Water
-											Grasmere
-											Haweswater Reservoir
-											Hayeswater
-											Loweswater
-											Rydal Water
-											Thirlmere
-											Ullswater
-											Wast Water
-											Windermere
-										[«TOWNS»]
-											Ambleside
-											Bowness-on-Windermere
-											Broughton-in-Furness
-											Keswick
-											Windermere
 								Greater Manchester
 									[«TOWNS & CITIES»]
 										Altrincham
@@ -1822,8 +1846,11 @@
 										Wetherby 
 										Yeadon
 					Scotland
-						[«CANALS & NAVIGATIONS»]
-						[«RIVERS»]
+						[‹NATIONAL PARKS›]
+							Loch Lomond and The Trossachs National Park
+							Cairngorms National Park
+						[‹CANALS & NAVIGATIONS›]
+						[‹RIVERS›]
 							River Forth
 								Forth Bridge
 								Forth Road Bridge
@@ -1897,7 +1924,7 @@
 									{Leòdhas}
 									[«BACK»]
 										{Am Bac}
-										«Villages»
+										[«Villages»]
 											Back
 												{Am Bac}
 											Coll
@@ -1910,7 +1937,7 @@
 												{Tunga}
 									[«NESS»]
 										{Nis}
-										«Villages»
+										[«Villages»]
 											Adabrock
 												{Adabroc}
 											Cross
@@ -1942,7 +1969,7 @@
 											Butt of Lewis Lighthouse
 									[«NORTH LOCHS»]
 										{Ceann a Tuath nan Loch}
-										«Villages»
+										[«Villages»]
 											Achmore
 												{An t-Acha Mòr}
 											Airidhbhruaich
@@ -1966,7 +1993,7 @@
 									[«PARK»]
 										{A' Phàirc}
 										{South Lochs}
-										«Villages»
+										[«Villages»]
 											Calbost
 												{Calabost}
 											Cromore
@@ -1991,7 +2018,7 @@
 												{Sildinis}
 									[«POINT»]
 										{An Rubha}
-										«Villages»
+										[«Villages»]
 											Aignish
 												{Aiginis}
 											Aird
@@ -2034,7 +2061,7 @@
 											Lews Castle
 												{Caisteal Leòdhais}
 									[«UIG»]
-										«Villages»
+										[«Villages»]
 											Aird Uig
 												{Àird Ùig}
 											Ardroil
@@ -2088,7 +2115,7 @@
 										Uig Bay
 											{Camas Uig}
 									[«WEST SIDE»]
-										«Villages»
+										[«Villages»]
 											Arnol
 												{Àrnol}
 											Ballantrushal
@@ -2130,6 +2157,14 @@
 									Lochboisdale
 										{Loch Baghasdail}
 					Wales
+						[‹NATIONAL PARKS›]
+							Snowdonia National Park
+							Pembrokeshire Coast National Park
+							Brecon Beacons National Park
+						[‹NATIONAL TRAILS›]
+							Glyndŵr's Way
+							Offa's Dyke Path
+							Pembrokeshire Coast Path
 						[‹CANALS›]
 							Llangollen Canal
 							Montgomery Canal
@@ -2302,7 +2337,6 @@
 		Southern Ocean
 			{Antarctic Ocean}
 	[«1.3» RIVERS, LAKES & WATERWAYS]
-		[Eu]
 	[«1.4» MOUNTAIN & MOUNTAIN RANGES]
 [«2» PEOPLE]
 [«3» SUBJECTS]
