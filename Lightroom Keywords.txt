@@ -760,107 +760,398 @@
 										Sudbury
 										Woodbridge
 							Greater London
-								[«INNER LONDON»]
-									[Camden]
-										{London Borough of Camden}
-									City of London
-										30 St Mary Axe
+								[‹ROYAL PARKS›]
+									Bushy Park
+									Green Park
+									Greenwich Park
+									Hampton Court Park
+									Hyde Park
+									Kensington Gardens
+									Regent's Park
+									Richmond Park
+									St James's Park
+								[‹STRUCTURES›]
+									[‹BRIDGES›]
+										Tower Bridge
+										London Bridge
+										Southwark Bridge
 										Millennium Bridge
-										St Paul's Cathedral
-									[Greenwich]
-										{Royal Borough of Greenwich}
-										Greenwich
-										North Greenwich
-											Millennium Dome
-									[Hackney]
-										{London Borough of Hackney}
-									[Hammersmith and Fulham]
-										{London Borough of Hammersmith and Fulham}
-									[Islington]
-										{London Borough of Islington}
-									[Kensington and Chelsea]
-										{Royal Borough of Kensington and Chelsea}
-									[Lambeth]
-										{London Borough of Lambeth}
+											{London Millennium Footbridge}
+										Blackfriars Railway Bridge
+										Blackfriars Bridge
+										Waterloo Bridge
+										Hungerford Bridge
+										Golden Jubilee Bridges
+										Westminster Bridge
+										Lambeth Bridge
+										Vauxhall Bridge
+										Grosvenor Bridge
+										Chelsea Bridge
+										Albert Bridge
+										Battersea Bridge
+										Wandsworth Bridge
+										Putney Bridge
+										Hammersmith Bridge
+										Chiswick Bridge
+										Kew Bridge
+										Twickenham Bridge
+										Richmond Bridge
+										Kingston Bridge
+										Hampton Court Bridge
+								[«INNER LONDON»]
+									[‹AREAS›]
 										South Bank
-											London Eye
-									[Lewisham]
-										{London Borough of Lewisham}
-									[Southwark]
-										{London Borough of Southwark}
-										Borough Market
-										HMS Belfast
-									[Tower Hamlets]
-										{London Borough of Tower Hamlets}
-										Isle of Dogs
-											Canary Wharf
-										Tower of London
-									[Wandsworth]
-										{London Borough of Wandsworth}
-										Battersea
-											Battersea Park
-									[Westminster]
-										{City of Westminster}
-										Palace of Westminster
-											{Houses of Parliament}
+										Knightsbridge
 										West End
-											Carnaby Street
-											Oxford Street
-											Piccadilly Circus
-											Regent Street
-										Westminster Cathedral
+									[«BOROUGHS»]
+										[Camden]
+											{London Borough of Camden}
+											[«MAJOR CENTRES»]
+												Camden Town
+												Bloomsbury
+												Holborn
+											[«DISTRICT CENTRES»]
+												Hampstead
+												Kentish Town
+												Swiss Cottage
+												West Hampstead
+										[Greenwich]
+											{Royal Borough of Greenwich}
+											[‹BUILDINGS›]
+												Millennium Dome
+											[«MAJOR CENTRES»]
+												Eltham
+												Woolwich
+											[«DISTRICT CENTRES»]
+												Greenwich
+												Thamesmead
+												North Greenwich
+										[Hackney]
+											{London Borough of Hackney}
+											[«MAJOR CENTRES»]
+												Dalston
+											[«DISTRICT CENTRES»]
+												Hackney Central
+												Stoke Newington
+										[Hammersmith and Fulham]
+											{London Borough of Hammersmith and Fulham}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Shepherd's Bush
+												Fulham
+												Hammersmith
+										[Islington]
+											{London Borough of Islington}
+											[«MAJOR CENTRES»]
+												Angel
+												Holloway
+											[«DISTRICT CENTRES»]
+												Archway
+										[Kensington and Chelsea]
+											{Royal Borough of Kensington and Chelsea}
+											[‹BUILDINGS›]
+												Harrods
+											[‹STREETS›]
+												Portobello Road
+											[«MAJOR CENTRES»]
+												Kensington High Street
+												King's Road
+												Westbourne Grove
+											[«DISTRICT CENTRES»]
+												Earls Court
+												Notting Hill
+												South Kensington
+										[Lambeth]
+											{London Borough of Lambeth}
+											[‹ATTRACTIONS›]
+												London Eye
+											[«MAJOR CENTRES»]
+												Vauxhall
+												Waterloo
+												Brixton
+												Streatham
+											[«DISTRICT CENTRES»]
+												Clapham
+												West Norwood
+												Tulse Hill
+										[Lewisham]
+											{London Borough of Lewisham}
+											[«MAJOR CENTRES»]
+												Catford
+												Lewisham
+											[«DISTRICT CENTRES»]
+												Blackheath
+												Deptford
+												Forest Hill
+												New Cross
+												Sydenham
+										[Southwark]
+											{London Borough of Southwark}
+											[‹ATTRACTIONS›]
+												HMS Belfast
+											[‹BUILDINGS›]
+												Southwark Cathedral
+											[‹MARKETS›]
+												Borough Market
+											[«MAJOR CENTRES»]
+												Peckham
+											[«DISTRICT CENTRES»]
+												Canada Water
+												Dulwich
+												Elephant and Castle
+												Camberwell
+												Walworth
+										[Tower Hamlets]
+											{London Borough of Tower Hamlets}
+											[‹AREAS›]
+												Isle of Dogs
+											[‹BUILDINGS›]
+												Tower of London
+											[«MAJOR CENTRES»]
+												Canary Wharf
+											[«DISTRICT CENTRES»]
+												Whitechapel
+												Bethnal Green
+												Brick Lane
+												Poplar
+										[Wandsworth]
+											{London Borough of Wandsworth}
+											[‹AREAS›]
+												Battersea
+											[‹PARKS›]
+												Battersea Park
+											[«MAJOR CENTRES»]
+												Clapham Junction
+												Putney
+												Tooting
+												Wandsworth
+											[«DISTRICT CENTRES»]
+												Balham
+												Earlsfield
+										[Westminster]
+											{City of Westminster}
+											[‹BUILDINGS›]
+												Palace of Westminster
+													{Houses of Parliament}
+													Elizabeth Tower
+														{Big Ben}
+												Westminster Cathedral
+												Westminster Abbey
+											[‹STREETS›]
+												Carnaby Street
+												Oxford Street
+												Piccadilly
+												Regent Street
+												Tottenham Court Road
+												Charing Cross Road
+											[«MAJOR CENTRES»]
+												Queensway
+												Paddington
+												Mayfair
+												Soho
+												Westminster
+											[«DISTRICT CENTRES»]
+												Edgware Road
+												St John’s Wood
+									City of London
+										[‹BUILDINGS›]
+											30 St Mary Axe
+											St Paul's Cathedral
+											Bank of England
 								[«OUTER LONDON»]
-									[Barking and Dagenham]
-										{London Borough of Barking and Dagenham}
-									[Barnet]
-										{London Borough of Barnet}
-									[Bexley]
-										{London Borough of Bexley}
-									[Brent]
-										{London Borough of Brent}
-									[Bromley]
-										{London Borough of Bromley}
-									[Croydon]
-										{London Borough of Croydon}
-									[Ealing]
-										{London Borough of Ealing}
-									[Enfield]
-										{London Borough of Enfield}
-									[Haringey]
-										{London Borough of Haringey}
-									[Harrow]
-										{London Borough of Harrow}
-									[Havering]
-										{London Borough of Havering}
-									[Hillingdon]
-										{London Borough of Hillingdon}
-									[Hounslow]
-										{London Borough of Hounslow}
-										Isleworth
-									[Kingston upon Thames]
-										{Royal Borough of Kingston upon Thames}
-										Kingston-upon-Thames
-										Surbiton
-									[Merton]
-										{London Borough of Merton}
-									[Newham]
-										{London Borough of Newham}
-									[Redbridge]
-										{London Borough of Redbridge}
-									[Richmond upon Thames]
-										{London Borough of Richmond upon Thames}
-										Hampton
-											Bushy Park
-										Hampton Court Palace
-										Richmond
-											Richmond Park
-										Teddington
-									[Sutton]
-										{London Borough of Sutton}
-									[Waltham Forest]
-										{London Borough of Waltham Forest}
+									[«BOROUGHS»]
+										[Barking and Dagenham]
+											{London Borough of Barking and Dagenham}
+											[«MAJOR CENTRES»]
+												Barking
+											[«DISTRICT CENTRES»]
+												Dagenham
+										[Barnet]
+											{London Borough of Barnet}
+											[«MAJOR CENTRES»]
+												Edgware
+											[«DISTRICT CENTRES»]
+												Golders Green
+												Mill Hill
+												Hendon
+												Finchley
+												Chipping Barnet
+													{High Barnet}
+												Colindale
+												Burnt Oak
+												Brent Cross
+										[Bexley]
+											{London Borough of Bexley}
+											[«MAJOR CENTRES»]
+												Bexleyheath
+											[«DISTRICT CENTRES»]
+												Crayford
+												Erith
+												Sidcup
+												Welling
+										[Brent]
+											{London Borough of Brent}
+											[«MAJOR CENTRES»]
+												Wembley
+												Kilburn
+											[«DISTRICT CENTRES»]
+												Cricklewood
+												Neasden
+												Wembley Park
+												Willesden Green
+										[Bromley]
+											{London Borough of Bromley}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Bromley
+												Orpington
+											[«DISTRICT CENTRES»]
+												Beckenham
+												Penge
+												Petts Wood
+												West Wickham
+												Crystal Palace
+													{Upper Norwood}
+										[Croydon]
+											{London Borough of Croydon}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Croydon
+											[«DISTRICT CENTRES»]
+												Addiscombe
+												Coulsdon
+												New Addington
+												Norbury
+												Purley
+												Selsdon
+												South Norwood
+												Thornton Heath
+										[Ealing]
+											{London Borough of Ealing}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Ealing
+												Southall
+											[«DISTRICT CENTRES»]
+												Acton
+												Greenford
+												Hanwell
+										[Enfield]
+											{London Borough of Enfield}
+											[«MAJOR CENTRES»]
+												Enfield Town
+											[«DISTRICT CENTRES»]
+												Edmonton
+												Palmers Green
+												Southgate
+										[Haringey]
+											{London Borough of Haringey}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Wood Green
+											[«DISTRICT CENTRES»]
+												Crouch End
+												Muswell Hill
+												Finsbury Park
+												Harringay
+										[Harrow]
+											{London Borough of Harrow}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Harrow
+											[«DISTRICT CENTRES»]
+												Pinner
+												Rayners Lane
+												South Harrow
+												Stanmore
+												Wealdstone
+										[Havering]
+											{London Borough of Havering}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Romford
+											[«DISTRICT CENTRES»]
+												Hornchurch
+												Upminster
+										[Hillingdon]
+											{London Borough of Hillingdon}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Uxbridge
+											[«DISTRICT CENTRES»]
+												Eastcote
+												Hayes
+												Northwood
+												Ruislip
+												West Drayton
+										[Hounslow]
+											{London Borough of Hounslow}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Hounslow
+												Chiswick
+											[«DISTRICT CENTRES»]
+												Brentford
+												Feltham
+											Isleworth
+										[Kingston upon Thames]
+											{Royal Borough of Kingston upon Thames}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Kingston-upon-Thames
+											[«DISTRICT CENTRES»]
+												Surbiton
+												New Malden
+												Tolworth
+										[Merton]
+											{London Borough of Merton}
+											[«MAJOR CENTRES»]
+												Wimbledon
+											[«DISTRICT CENTRES»]
+												Mitcham
+												Morden
+										[Newham]
+											{London Borough of Newham}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Stratford
+												East Ham
+											[«DISTRICT CENTRES»]
+												Canning Town
+												East Beckton
+												Forest Gate
+												Upton Park
+										[Redbridge]
+											{London Borough of Redbridge}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Ilford
+											[«DISTRICT CENTRES»]
+												Chadwell Heath
+												Barkingside
+												Gants Hill
+												Woodford
+												Wanstead
+										[Richmond upon Thames]
+											{London Borough of Richmond upon Thames}
+											[‹BUILDINGS›]
+												Hampton Court Palace
+											[«MAJOR CENTRES»]
+												Richmond
+											[«DISTRICT CENTRES»]
+												Teddington
+												Twickenham
+												Whitton
+												East Sheen
+										[Sutton]
+											{London Borough of Sutton}
+											[«METROPOLITAN & MAJOR CENTRES»]
+												Sutton
+											[«DISTRICT CENTRES»]
+												Cheam
+												Rosehill
+												Wallington
+												Worcester Park
+												Carshalton
+										[Waltham Forest]
+											{London Borough of Waltham Forest}
+											[«MAJOR CENTRES»]
+												Walthamstow
+											[«DISTRICT CENTRES»]
+												Highams Park
+												Chingford
+												Leyton
+												Leytonstone
 								London Underground
-								Tower Bridge
+									{The Tube}
 							[North East]
 								{North East England}
 								County Durham
