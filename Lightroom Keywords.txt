@@ -3356,11 +3356,24 @@
 					[Antrim]
 						{County Antrim}
 						{Contae Aontroma}
-						Belfast
-							{Béal Feirste}
+						[«TOWNS & CITIES»]
+							Belfast
+								{Béal Feirste}
+								{City of Belfast}
+							Lisburn
+								{Lios na gCearrbhach}
+								{City of Lisburn}
 					[Armagh]
 						{County Armagh}
 						{Contae Ard Mhacha}
+						[«TOWNS & CITIES»]
+							Armagh
+								{Ard Mhacha}
+								{City of Armagh}
+							Newry
+								{An Iúraigh}
+								{An tIúr}
+								{City of Newry}
 					[Down]
 						{County Down}
 						{Contae an Dúin}
@@ -3371,9 +3384,11 @@
 						{County Londonderry}
 						{County Derry}
 						{Contae Dhoire}
-						Derry
-							{Londonderry}
-							{Doire}
+						[«TOWNS & CITIES»]
+							Derry
+								{Londonderry}
+								{City of Londonderry}
+								{Doire}
 					[Tyrone]
 						{County Tyrone}
 						{Contae Thír Eoghain}
