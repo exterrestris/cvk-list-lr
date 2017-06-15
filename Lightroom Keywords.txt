@@ -3441,7 +3441,7 @@
 			United States
 				{United States of America}
 				{USA}
-				[«Midwest»]
+				[«MIDWEST»]
 					Illinois
 					Indiana
 					Iowa
@@ -3454,7 +3454,7 @@
 					Ohio
 					South Dakota
 					Wisconsin
-				[«Northeast»]
+				[«NORTHEAST»]
 					New England
 						Connecticut
 						Maine
@@ -3468,7 +3468,7 @@
 					New York
 					Pennsylvania
 						{Commonwealth of Pennsylvania}
-				[«South»]
+				[«SOUTH»]
 					Alabama
 					Arkansas
 					District of Columbia
@@ -3488,7 +3488,7 @@
 					Virginia
 						{Commonwealth of Virginia}
 					West Virginia
-				[«West»]
+				[«WEST»]
 					Alaska
 					Arizona
 					California
