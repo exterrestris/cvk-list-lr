@@ -3352,6 +3352,86 @@
 							Monmouthshire and Brecon Canal
 						[‹RIVERS›]
 							River Severn
+						[«PRESERVED COUNTIES»]
+							Clwyd
+								[Conwy County Borough]
+									{}
+									[«TOWNS»]
+								[Denbighshire]
+									[«TOWNS & CITIES»]
+									St Asaph
+										{Llanelwy}
+										{City of St Asaph}
+								[Flintshire]
+									[«TOWNS»]
+								[Wrexham County Borough]
+									[«TOWNS»]
+							Dyfed
+								[Carmarthenshire]
+									[«TOWNS»]
+								[Ceredigion]
+									[«TOWNS»]
+								[Pembrokeshire]
+									[«TOWNS & CITIES»]
+										St Davids
+											{Tyddewi}
+											{City of St Davids}
+							Gwent
+								[Blaenau Gwent]
+									[«TOWNS»]
+								[Caerphilly County Borough]
+									[«TOWNS»]
+								[Monmouthshire]
+									[«TOWNS»]
+								Newport
+									{Casnewydd}
+									{City of Newport}
+									{City and County of Newport}
+									[«VILLAGES»]
+								[Torfaen]
+									[«TOWNS»]
+							[Gwynedd]
+								Gwynedd
+									[«TOWNS & CITIES»]
+										Bangor
+										{City of Bangor}
+								Anglesey
+									{Ynys Môn}
+									[«TOWNS»]
+							Mid Glamorgan
+								{Morgannwg Ganol}
+								[Bridgend County Borough]
+									[«TOWNS»]
+								[Merthyr Tydfil County Borough]
+									[«TOWNS»]
+								[Rhondda Cynon Taf]
+									[«TOWNS»]
+							Powys
+								[Montgomeryshire]
+									[«TOWNS»]
+								[Radnorshire]
+									[«TOWNS»]
+								[Brecknockshire]
+									[«TOWNS»]
+							South Glamorgan
+								{De Morgannwg}
+								Cardiff
+									{Caerdydd}
+									{City of Cardiff}
+									{City and County of Cardiff}
+									[«VILLAGES»]
+								Vale of Glamorgan
+									{Bro Morgannwg}
+									[«TOWNS»]
+							West Glamorgan
+								{Gorllewin Morgannwg}
+								[Neath Port Talbot]
+									[«TOWNS»]
+								Swansea
+									{Abertawe}
+									{City of Swansea}
+									{City and County of Swansea}
+									[«VILLAGES»]
 				Northern Ireland
 					[Antrim]
 						{County Antrim}
