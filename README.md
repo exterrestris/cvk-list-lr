@@ -1,2 +1,2 @@
-# photo-cvkl-lr
-Photography Keyword List (Controlled Vocabulary) for Adobe Lightroom
+# CVK List for Lightroom
+A controlled vocabulary keyword list for Adobe Lightroom
