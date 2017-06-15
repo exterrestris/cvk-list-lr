@@ -2178,275 +2178,948 @@
 						Fife
 							Inchcolm Island
 							North Queensferry
-						Western Isles
-							{Na h-Eileanan an Iar}
-							{Outer Hebrides}
-							[«BARRA & VATERSAY»]
-								Barra
-									{Eilean Bharraigh}
-									Castlebay
-										{Bàgh a' Chaisteil}
-								Vatersay
-									{Bhatarsaigh}
-							[«LEWIS & HARRIS»]
-								{Lewis and Harris}
-								{Leòdhas agus na Hearadh}
-								Great Bernera
-									{Beàrnaraigh Mòr}
-									Bostadh
-									Breaclete
-										{Breacleit}
-									Hacklete
-										{Tacleit}
-									Kirkibost
-										{Circebost}
-									Tobson
-								Harris
-									{Isle of Harris}
-									{Na Hearadh}
-									Hushinish
-										{Hùisinis}
-									Leverburgh
-										{An t-Òb}
-									Tarbert
-										{An Tairbeart}
-								Lewis
-									{Isle of Lewis}
-									{Leòdhas}
-									[«BACK»]
-										{Am Bac}
-										[«Villages»]
-											Back
-												{Am Bac}
-											Coll
-												{Col}
-											Gress
-												{Griais}
-											North Tolsta
-												{Tolastadh bho Thuath}
-											Tong
-												{Tunga}
-									[«NESS»]
-										{Nis}
-										[«Villages»]
-											Adabrock
-												{Adabroc}
-											Cross
-												{Cros}
-											Eorodale
-												{Eòradal}
-											Eoropie
-												{Eòrapaidh}
-											Fivepenny
-												{Na Còig Peighinnean}
-											Habost
-												{Tàbost}
-											Knockaird
-												{An Cnoc Àrd}
-											Lionel
-												{Lìonal}
-											North Dell
-												{Dail bho Thuath}
-											Port of Ness
-												{Port Nis}
-											Skigersta
-												{Sgiogarstaigh}
-											South Dell
-												{Dail-bho-Dheas}
-											Swainbost
-												{Suaineabost}
-										Butt of Lewis
-											{Rubha Robhanais}
-											Butt of Lewis Lighthouse
-									[«NORTH LOCHS»]
-										{Ceann a Tuath nan Loch}
-										[«Villages»]
-											Achmore
-												{An t-Acha Mòr}
-											Airidhbhruaich
-												{Arivruach}
-											Balallan
-												{Baile Ailein}
-											Crossbost
-												{Crosbost}
-											Grimshader
-												{Griomsidar}
-											Keose
-												{Ceos}
-											Keose Glebe
-												{Glib Cheois}
-											Laxay
-												{Lacasaidh}
-											Leurbost
-												{Liùrbost}
-											Ranish
-												{Ranais}
-									[«PARK»]
-										{A' Phàirc}
-										{South Lochs}
-										[«Villages»]
-											Calbost
-												{Calabost}
-											Cromore
-												{Cromor}
-											Eishken
-												{Eisgein}
-											Garyvard
-												{Gearraidh Bhaird}
-											Gravir
-												{Grabhair}
-											Habost
-												{Tàbost}
-											Kershader
-												{Cearsiadair}
-											Lemreway
-												{Leumrabhagh}
-											Marvig
-												{Marbhig}
-											Orinsay
-												{Orasaigh}
-											Shiltenish
-												{Sildinis}
-									[«POINT»]
-										{An Rubha}
-										[«Villages»]
-											Aignish
-												{Aiginis}
-											Aird
-											Branahuie
-												{Bràigh na h-Aoidhe}
-											Broker
-												{Brocair}
-											Eagleton
-												{Baile na h-Iolaire}
-											Flesherin
-												{Na Fleisirean}
-											Garrabost
-											Knock
-												{An Cnoc}
-											Lower Bayble
-												{Pabail Iarach}
-											Melbost
-												{Mealabost}
-											Portnaguran
-												{Port nan Giùran}
-											Portvoller
-												{Port Mholair}
-											Sheshader
-												{Seisiader}
-											Shulishader
-												{Siadar an Rubha}
-											Swordale
-												{Suardail}
-											Upper Bayble
-												{Pabail Uarach}
-										Tiumpan Head
-											{Rubha an Tiùmpain}
-											Tiumpan Head Lighthouse
-									[«STORNOWAY»]
-										Newmarket
-											{An Margaidh Ùr}
-										Stornoway
-											{Steòrnabhagh}
-											Lewis War Memorial
-											Lews Castle
-												{Caisteal Leòdhais}
-									[«UIG»]
-										[«Villages»]
-											Aird Uig
-												{Àird Ùig}
-											Ardroil
-												{Eadar Dhà Fhadhail}
-											Breasclete
-												{Brèascleit}
-											Brenish
-												{Brèinis}
-											Callanish
-												{Calanais}
+						[«ISLANDS»]
+							Northern Isles
+								Orkney
+									{Orkney Islands}
+									{Arcaibh}
+									[«ISLANDS»]
+										Mainland
+											{Mòr-thìr}
+										Auskerry
+										Burray
+										Eday
+										Egilsay
+										Flotta
+										Gairsay
+										Graemsay
+										Holm of Grimbister
+										Hoy
+										Inner Holm
+										North Ronaldsay
+										Papa Stronsay
+										Papa Westray
+										Rousay
+										Sanday
+										Shapinsay
+										South Ronaldsay
+										South Walls
+										Stronsay
+										Westray
+										Wyre
+									[«TOWNS & VILLAGES»]
+										Kirkwall
+										Balfour
+										Dounby
+										Finstown
+										Houton
+										Longhope
+										Lyness
+										Pierowall
+										St Margaret's Hope
+										Stromness
+										Whitehall
+								Shetland
+									{Shetland Islands}
+									{Sealtainn}
+									[«ISLANDS»]
+										Mainland
+										Bressay
+										Burra
+										Fair Isle
+											{Fara}
+										Fetlar
+										Foula
+										Muckle Roe
+										Out Skerries
+										Papa Stour
+										Trondra
+										Unst
+										Vaila
+										Whalsay
+										Yell
+									[«TOWNS & VILLAGES»]
+										Lerwick
+										Aith
+										Baltasound
+										Brae
+										Grutness
+										Gutcher
+										Haroldswick
+										Mossbank
+										Quarff
+										Scalloway
+										Symbister
+										Toft
+										Ulsta
+										Uyeasound
+										Vidlin
+										Voe
+										Walls
+							Hebrides
+								Inner Hebrides
+									[«Small Isles»]
+										{Small Isles}
+										{Na h-Eileanan Tarsainn}
+										Canna
+											{Canaigh}
+										Rùm
+											[«VILLAGES»]
+												Kinloch
+													{Cheann Locha}
+											[«BUILDINGS»]
+												Kinloch Castle
+													{Caisteal Cheann Locha}
+										Eigg
+											{Eige}
+											[«VILLAGES»]
+												Cleadale
+													{Clèadail}
+												Galmisdale
+										Muck
+											{Eilean nam Muc}
+											[«VILLAGES»]
+												Port Mòr
+												Gallanach
+									Coll
+										{Cola}
+										[«VILLAGES»]
+											Arinagour
+												{Àirigh nan Gobhar}
+											Acha
+												{An t-Achadh}
+											Totronald
+												{Tobhta Raghnaill}
+											Arileod
+												{Àirigh Leòid}
+											Ballyhaugh
+												{Baile Hogh}
+											Clabhach
+												{A' Chlabaich}
+											Bousd
+												{Babhsta}
+											Sorisdale
+											Arnabost
+												{Àrnabost}
+											Grishipoll
+											Torastan
+											Uig
+												{Ùig}
+									Colonsay
+										{Colbhasa}
+										[«VILLAGES»]
+											Scalasaig
+												{Sgalasaig}
+											Upper Kilchattan
+											Lower Kilchattan
+											Kiloran
+											Uragaig
+											Creagan
+											Glassard
+											Balerominmore
+									Danna
+									Erraid
+										{Eilean Earraid}
+									Gigha
+										{Isle of Gigha}
+										{Giogha}
+										[«VILLAGES»]
+											Ardminish
+												{Aird Mhèanais}
+									Gometra
+										{Gòmastra}
+									Iona
+										{Ì Chaluim Chille}
+										[«VILLAGES»]
+											Baile Mòr
+											Sligneach
+											Clachanach
+											Auchabbhaich
+											Ardionra
+									Islay
+										{Ìle}
+										[«DISTILLARIES»]
+											Ardbeg Distillery
+											Bowmore Distillery
+											Bruichladdich Distillery
+											Bunnahabhain Distillery
+											Caol Ila Distillery
+											Kilchoman Distillery
+											Lagavulin Distillery
+											Laphroaig Distillery
+										[«VILLAGES»]
+											Bowmore
+												{Bogh Mòr}
+											Ballygrant
+												{Baile a' Ghràna}
+											Lagavulin
+												{Lag a' Mhuilinn}
+											Portnahaven
+												{Port na h-Abhainne}
+											Port Ellen
+												{Port Ìlein}
+											Port Charlotte
+												{Port Sgioba}
+											Port Askaig
+												{Port Asgaig}
+											Bridgend
+												{Beul an Àth}
+											Kilchiaran
+											Nerabus
+											Bruichladdich
+											Kilchoman
+											Imeraval
+											Risabus
+											Laphroaig
+											Ardbeg
+									Isle of Ewe
+										{Eilean Iùbh}
+									Jura
+										{Diùra}
+										[«VILLAGES»]
+											Craighouse
+												{Taigh na Creige}
+											Feolin Ferry
+											Ardfin
+											Brosdale
+											Keils
+											Knockrome
+											Lagg
+											Tarbert
+											Lussagiven
+											Ardlussa
+											Inverlussa
+											Eagadale
+									Kerrera
+										{Cearara}
+									Lismore
+										{Lios Mòr}
+										[«VILLAGES»]
+											Achnacroish
+												{Achadh na Croise}
+											Port Ramsay
+											Kilcheran
+											Clachan
+											Balliveolan
+											Frackersaig
+											Achinduin
+									Mull
+										{Muile}
+										[«TOWNS & VILLAGES»]
+											Tobermory
+												{Tobar Mhoire}
+											Bunessan
+												{Bun Easain}
+											Craignure
+												{Creag an Iubhair}
+											Dervaig
+												{Dearbhaig}
+											Fionnphort
+											Salen
+												{An t-Sàilean}
+											Ardtun
+												{Àird Tunna}
+											Calgary
+											Fishnish
+												{Fisinis}
+											Kintra
+												{Ceann na Tràgha}
+											Knockan
+												{An Cnocan}
+											Lochbuie
+												{Locha Buidhe}
+											Pennyghael
+												{Peighinn nan Gàidheal}
+											Tiroran
+											Uisken
+												{Uisgean}
+											Ulva Ferry
+												{Caolas Ulbha}
+											Druimghigha
+											Penmore Mill
+											Croig
+											Ensay
+											Burg
+											Kilninian
+											Achleck
+											Ballygown
+											Kilbrennan
+											Lagganulva
+											Oskamull
+											Tòrr an Arbhair
+											Gruline
+											Balnahard
+											Cnoc a Bhràghad
+											Carsaig
+											Achnahard
+											Lower Ardtun
+											Creich
+											Fidden
+											Strathcoil
+											Croggan
+											Barachandroman
+											Ardnadrochet
+											Auchnacraig
+											Lochdon
+											Upper Achnacroish
+									Oronsay
+										{Orasaigh}
+									Raasay
+										{Ratharsair}
+										[«VILLAGES»]
+											Arnish
+											Brochel
+											Clachan
+											Oskaig
+											Inverarish
+											East Suisnish
+											Eyre
+									Sanday
+										{Sandaigh}
+									Scalpay
+										{Sgalpaigh}
+									Rona
+										{South Rona}
+										{Rònaigh}
+									Skye
+										{An t-Eilean Sgitheanach}
+										{Isle of Skye}
+										[«TOWNS»]
+											Portree
+												{Port Rìgh}
+											Broadford
+												{An t-Àth Leathann}
+											Dunvegan
+												{Dùn Bheagain}
+										[«VILLAGES»]
+											Uig
+												{Ùige}
+											Kyleakin
+												{Caol Àcain}
+											Achachork
+												{Achadh a' Choirce}
+											Aird of Sleat
+												{Àird Shlèite}
+											Ardvasar
+												{Àird a’ Bhàsair}
+											Armadale
+												{Armadal}
+											Ashaig
+												{Aiseag}
+											Bernisdale
+												{Beàrnasdal}
+											Bornesketaig
+												{Borgh na Sgiotaig}
+											Boreraig
+												{Boraraig}
+											Borreraig
+												{Boraraig}
+											Borrodale
+												{Borodail}
+											Borve
+												{Borbh}
+											Bracadale
+												{Bracadal}
+											Breakish
+												{Breacais Àrd}
+											Brogaig
+												{Brògaig}
+											Bualintur
+												{Buaile an Todhair}
+											Camastianavaig
+												{Camas Dìonabhaig}
+											Camuscross
+												{Camuscross}
+											[Carbost (Loch Harport)]
+												{Carbost}
+												{Carabost}
+											[Carbost (Portree)]
+												{Carbost}
+												{Càrrabost}
+											Claigan
+												{An Claigeann}
+											Colbost
+												{Cealabost}
+											Drumfearn
+												{An Druim Fheàrna}
+											Drynoch
+												{An Droighneach}
+											Dunan
+												{An Dùnan}
+											Duntulm
+												{Dùn Thuilm}
+											Edinbane
+												{An t-Aodann Bàn}
+											Elgol
+												{Ealaghol}
+											Ellishadder
+												{Ealaiseadar}
+											Eynort
+												{Aoineart}
+											Eyre
+												{Eighre}
+											Fasach
+												{Fàsach}
+											Feorlig
+												{Feòirlig}
+											Ferindonald
+												{Fearann Dòmhnaill}
+											Fiskavaig
+												{Fiosgabhaig}
+											Flashader
+												{Flaiseader}
+											Flodigarry
+												{Flòdaigearraidh}
+											Galltrigill
+												{Galtraigil}
+											Garafad
+												{An Garradh Fada}
+											Geary
+											Gedintailor
+												{Gead an t-Sailleir}
+											Gillen
+												{Gilean}
+											Glendale
+												{Gleann Dail}
+											Halistra
+												{Halastra}
+											Harlosh
+												{Heàrrlois}
+											Heaste
+												{Heasta}
+											Isleornsay
+												{Eilean Iarmain}
+											Kensaleyre
+												{Ceann Sàil Eighre}
+											Kilbride
+												{Cille Bhrìghde}
+											Kilmaluag
+												{Cill Moluaig}
+											Kilmarie
+												{Cill Ma Ruibhe}
+											Kilmore
+												{A' Chille Mhór}
+											Kilmuir
+												{Cille Mhoire}
+											Kilvaxter
+												{Cille Bhacastair}
+											Kingsburgh
+												{Cinnseaborgh}
+											Kylerhea
+												{Caol Reatha}
+											Lealt
+												{An Leathallt}
+											Lower Breakish
+												{Breacais Ìosal}
+											Luib
+												{Lùib}
+											Milovaig
+												{Mìolabhaig}
+											Mugeary
+												{Mùigearraidh}
+											Ollach
+												{An t-Olach}
+											Ose
+												{Òs}
+											Peinachorran
+												{Peighinn a' Chorrain}
+											Portnalong
+												{Port nan Long}
+											Ramasaig
+											Roag
+												{Ròdhag}
+											Sconser
+												{Sgonnsair}
+											Skeabost
+												{Sgeitheabost}
+											Sligachan
+												{Sligeachan}
+											Staffin
+												{Stafain}
+											Stein
+												{Steinn}
+											Struan
+												{An Sruthan}
+											Suladale
+												{Sùladal}
+											Talisker
+												{Talasgair}
+											Tarskavaig
+												{Tarsgabhaig}
+											Teangue
+												{An Teanga}
+											Torrin
+												{Na Torrain}
+											Totaig
+											Tote
+												{Tobhta}
+											Treaslane
+												{Triaslann}
+											Trumpan
+											Uigshader
+												{Ùigseadar}
+											Ullinish
+												{Uilfhinis}
+									Slate Islands
+										Belnahua
+											{Beul na h-Uamha}
+										Easdale
+											{Eilean Èisdeal}
+										Luing
+											{Luinn}
+											[«VILLAGES»]
+												Cullipool
+												Ardinamar
+												Toberonochy
+										Lunga
+										Seil
+											{Saoil}
+											[«VILLAGES»]
+												Balvicar
+													{Baile a' Bhiocair}
+												Clachan-Seil
+												Cuan
+												Ellenabeich
+													{Eilean nam Beitheach}
+										Shuna
+											{Siuna}
+										Torsa
+									Soay
+										{Sòdhaigh}
+									Summer Isles
+										{Na h-Eileanan Samhraidh}
+										Tanera Mòr
+											{Tannara Mòr}
+									Tiree
+										{Tiriodh}
+										[«VILLAGES»]
+											Balemartine
+											Balephetrish
+											Balephuil
+											Balevullin
+											Balinoe
+											Barrapoll
+											Baugh
+											Caolas
+											Cornaigbeg
+											Cornaigmore
+											Crossapol
+											Heylipol
+											Hough
+											Hynish
+											Kenovay
+											Kilkenneth
+											Kilmaluaig
+											Kirkapol
+											Mannal
+											Middleton
+											Moss
+											Ruaig
+											Salum
+											Sandaig
+											Scarinish
+												{Sgairinis}
+											Vaul
+									Ulva
+										{Ulbha}
+								Outer Hebrides
+									{Western Isles}
+									{Na h-Eileanan Siar}
+									[«BARRA & VATERSAY»]
+										Barra
+											{Eilean Bharraigh}
+											[«VILLAGES»]
+												Castlebay
+													{Bàgh a' Chaisteil}
+										Vatersay
+											{Bhatarsaigh}
+									[«LEWIS & HARRIS»]
+										{Lewis and Harris}
+										{Leòdhas agus na Hearadh}
+										Great Bernera
+											{Beàrnaraigh Mòr}
+											[«VILLAGES»]
+												Bostadh
+												Breaclete
+													{Breacleit}
+												Hacklete
+													{Tacleit}
+												Kirkibost
+													{Circebost}
+												Tobson
+										Harris
+											{Isle of Harris}
+											{Na Hearadh}
+											[«VILLAGES»]
+												Hushinish
+													{Hùisinis}
+												Leverburgh
+													{An t-Òb}
+												Tarbert
+													{An Tairbeart}
+										Lewis
+											{Isle of Lewis}
+											{Leòdhas}
+											[]
+												Butt of Lewis
+													{Rubha Robhanais}
+													Butt of Lewis Lighthouse
+												Tiumpan Head
+													{Rubha an Tiùmpain}
+													Tiumpan Head Lighthouse
+												Uig Bay
+													{Camas Uig}
+											[]
 												Callanish Stones
 													{Callanish I}
-											Carishader
-												{Cairisiadar}
-											Carloway
-												{Càrlabhagh}
-												Dun Carloway
-													{Dùn Chàrlabhaigh}
-											Carnish
-												{Càrnais}
-											Cliff
-												{Cliobh}
-											Crowlista
-												{Cradhlasta}
-											Dalmore
-												{Dail Mòr}
-											Enaclete
-												{Eanacleit}
-											Garenin
-												{Na Gearrannan}
-												Garenin Blackhouse Village
-											Garynahine
-												{Gearraidh na h-aibhne}
-											Islivik
-												{Islibhig}
-											Kneep
-												{Cnip}
-											Mangursta
-												{Mhangarstadh}
-											Mealasta
-											Meavik
-												{Miabhaig}
-											Reef
-												{Riof}
-											Timsgarry
-												{Tuimisgearraidh}
-											Uigen
-												{Na h-Ùigean}
-											Valtos
-												{Bhaltos}
-										Uig Bay
-											{Camas Uig}
-									[«WEST SIDE»]
-										[«Villages»]
-											Arnol
-												{Àrnol}
-											Ballantrushal
-												{Baile an Truiseil}
-											Barvas
-												{Barabhas}
-											Borve
-												{Borgh}
-											Bragar
-												{Bràgar}
-											Brue
-												{Brù}
-											Dalbeg
-												{Dail Beag}
-											Shader
-												{Siadar}
-											Shawbost
-												{Siabost}
-									Callanish
-								Scalpay
-									{Sgalpaigh na Hearadh}
-								Scarp
-									{An Sgarp}
-							[«UISTS»]
-								Benbecula
-									{Beinn nam Fadhla}
-									Balivanich
-										{Baile a' Mhanaich}
-								Berneray
-									{Beàrnaraigh na Hearadh}
-								Eriskay
-									{Èirisgeigh}
-								North Uist
-									{Uibhist a Tuath}
-									Lochmaddy
-										{Loch nam Madadh}
-								South Uist
-									{Uibhist a Deas}
-									Lochboisdale
-										{Loch Baghasdail}
+											[«VILLAGES»]
+												[«BACK»]
+													[{Am Bac}]
+													Back
+														{Am Bac}
+													Coll
+														{Col}
+													Gress
+														{Griais}
+													North Tolsta
+														{Tolastadh bho Thuath}
+													Tong
+														{Tunga}
+												[«NESS»]
+													[{Nis}]
+													Adabrock
+														{Adabroc}
+													Cross
+														{Cros}
+													Eorodale
+														{Eòradal}
+													Eoropie
+														{Eòrapaidh}
+													Fivepenny
+														{Na Còig Peighinnean}
+													Habost
+														{Tàbost}
+													Knockaird
+														{An Cnoc Àrd}
+													Lionel
+														{Lìonal}
+													North Dell
+														{Dail bho Thuath}
+													Port of Ness
+														{Port Nis}
+													Skigersta
+														{Sgiogarstaigh}
+													South Dell
+														{Dail-bho-Dheas}
+													Swainbost
+														{Suaineabost}
+												[«NORTH LOCHS»]
+													{Ceann a Tuath nan Loch}
+													Achmore
+														{An t-Acha Mòr}
+													Airidhbhruaich
+														{Arivruach}
+													Balallan
+														{Baile Ailein}
+													Crossbost
+														{Crosbost}
+													Grimshader
+														{Griomsidar}
+													Keose
+														{Ceos}
+													Keose Glebe
+														{Glib Cheois}
+													Laxay
+														{Lacasaidh}
+													Leurbost
+														{Liùrbost}
+													Ranish
+														{Ranais}
+												[«PARK»]
+													{A' Phàirc}
+													{South Lochs}
+													Calbost
+														{Calabost}
+													Cromore
+														{Cromor}
+													Eishken
+														{Eisgein}
+													Garyvard
+														{Gearraidh Bhaird}
+													Gravir
+														{Grabhair}
+													Habost
+														{Tàbost}
+													Kershader
+														{Cearsiadair}
+													Lemreway
+														{Leumrabhagh}
+													Marvig
+														{Marbhig}
+													Orinsay
+														{Orasaigh}
+													Shiltenish
+														{Sildinis}
+												[«POINT»]
+													{An Rubha}
+													Aignish
+														{Aiginis}
+													Aird
+													Branahuie
+														{Bràigh na h-Aoidhe}
+													Broker
+														{Brocair}
+													Eagleton
+														{Baile na h-Iolaire}
+													Flesherin
+														{Na Fleisirean}
+													Garrabost
+													Knock
+														{An Cnoc}
+													Lower Bayble
+														{Pabail Iarach}
+													Melbost
+														{Mealabost}
+													Portnaguran
+														{Port nan Giùran}
+													Portvoller
+														{Port Mholair}
+													Sheshader
+														{Seisiader}
+													Shulishader
+														{Siadar an Rubha}
+													Swordale
+														{Suardail}
+													Upper Bayble
+														{Pabail Uarach}
+												[«STORNOWAY»]
+													Newmarket
+														{An Margaidh Ùr}
+												[«UIG»]
+													Aird Uig
+														{Àird Ùig}
+													Ardroil
+														{Eadar Dhà Fhadhail}
+													Breasclete
+														{Brèascleit}
+													Brenish
+														{Brèinis}
+													Callanish
+														{Calanais}
+													Carishader
+														{Cairisiadar}
+													Carloway
+														{Càrlabhagh}
+														Dun Carloway
+															{Dùn Chàrlabhaigh}
+													Carnish
+														{Càrnais}
+													Cliff
+														{Cliobh}
+													Crowlista
+														{Cradhlasta}
+													Dalmore
+														{Dail Mòr}
+													Enaclete
+														{Eanacleit}
+													Garenin
+														{Na Gearrannan}
+														Garenin Blackhouse Village
+													Garynahine
+														{Gearraidh na h-aibhne}
+													Islivik
+														{Islibhig}
+													Kneep
+														{Cnip}
+													Mangursta
+														{Mhangarstadh}
+													Mealasta
+													Meavik
+														{Miabhaig}
+													Reef
+														{Riof}
+													Timsgarry
+														{Tuimisgearraidh}
+													Uigen
+														{Na h-Ùigean}
+													Valtos
+														{Bhaltos}
+												[«WEST SIDE»]
+													Arnol
+														{Àrnol}
+													Ballantrushal
+														{Baile an Truiseil}
+													Barvas
+														{Barabhas}
+													Borve
+														{Borgh}
+													Bragar
+														{Bràgar}
+													Brue
+														{Brù}
+													Dalbeg
+														{Dail Beag}
+													Shader
+														{Siadar}
+													Shawbost
+														{Siabost}
+											Stornoway
+												{Steòrnabhagh}
+												[‹STRUCTURES›]
+													Lewis War Memorial
+												[‹BUILDINGS›]
+													Lews Castle
+														{Caisteal Leòdhais}
+										Scalpay
+											{Sgalpaigh na Hearadh}
+										Scarp
+											{An Sgarp}
+									[«UISTS»]
+										Baleshare
+											{Baile Sear}
+										Benbecula
+											{Beinn nam Fadhla}
+											[«VILLAGES»]
+												Balivanich
+													{Baile a' Mhanaich}
+										Berneray
+											{Beàrnaraigh na Hearadh}
+										Eriskay
+											{Èirisgeigh}
+										North Uist
+											{Uibhist a Tuath}
+											[«VILLAGES»]
+												Lochmaddy
+													{Loch nam Madadh}
+										South Uist
+											{Uibhist a Deas}
+											[«VILLAGES»]
+												Lochboisdale
+													{Loch Baghasdail}
+								St Kilda
+									{Hiort}
+									Hirta
+									Soay
+										{Soaigh}
+									Dùn
+							[«Islands of the Clyde»]
+								Ailsa Craig
+									{Creag Ealasaid}
+								Arran
+									{Eilean Arainn}
+									{Isle of Arran}
+									[«VILLAGES»]
+										Brodick
+											{Breadhaig}
+											{Tràigh a' Chaisteil}
+										Lamlash
+											{An t-Eilean Àrd}
+										Lochranza
+											{Loch Raonasa}
+										Whiting Bay
+											{Eadar Dhà Rubha}
+										Birchburn
+											{}
+										Blackwaterfoot
+											{Bun na Dubh Abhainn}
+										Catacol
+											{Catagal}
+										Cladach
+											{An Cladach}
+										Corrie
+											{An Coire}
+										Dippen
+											{An Dipinn}
+										Kildonan
+											{Cill Donnain}
+										Kilmory
+											{Cill Mhoire}
+										Lagg
+											{An Lag}
+										Machrie
+											{Am Machaire}
+										Pirnmill
+											{Muileann nam Piùirneachan}
+										Sannox
+											{Sannaig}
+										Shiskine
+											{An t-Seasgann}
+										Sliddery
+											{Slaodraidh}
+										Whitefarland
+											{An Aoirinn}
+								Burnt Islands
+								Bute
+									{Eilean Bhòid}
+									{Isle of Bute}
+										[«TOWNS»]
+											Rothesay
+												{Baile Bhòid}
+										[«VILLAGES»]
+											Ascog
+												{Àsgaig}
+											Kilchattan Bay
+											Kingarth
+												{Ceann a' Gharaidh}
+											Port Bannatyne
+												{Port MhicEamailinn}
+								Castle Island
+									{Eilean a' Chaisteil}
+								Davaar Island
+									{Eilean Dà Bhàrr}
+									{Island Davaar}
+								Eilean Dearg
+								Eilean Dubh
+								Glunimore Island
+								Holy Isle
+									{Eilean MoLaise}
+								Horse Isle
+									{Eilean nam Each}
+								Inchmarnock
+									{Innis Mheàrnaig}
+								Lady Isle
+									{Eilean Mhoire }
+								Pladda
+									{Pladaigh}
+								Sanda
+									{Sanda Island}
+									{Sandaigh}
+								Sheep Island
+								Great Cumbrae
+									{Cumaradh Mòr}
+									[«TOWNS»]
+										Millport
+											{Port a' Mhuilinn}
+											[«BUILDINGS»]
+												Cathedral of The Isles
+													{Cathedral of The Isles and Collegiate Church of the Holy Spirit}
+												Garrison House
+								Little Cumbrae
+									{Cumaradh Beag}
+							[«Islands of the Forth»]
+								Bass Rock
+								Craigleith
+									{Creag Lìte}
+								Cramond Island
+									{Eilean Chathair Amain}
+								Eyebroughy
+								Fidra
+								Inchcolm
+									{Innis Choluim}
+									[«STRUCTRUES»]
+										Inchcolm Abbey
+								Inchgarvie
+									{Innis Garbhach}
+								Inchkeith
+									{Innse Coit}
+								Inchmickery
+									{Innis nam Bhiocaire}
+								The Lamb
+								Isle of May
+									{Eilean Mhàigh}
+							[«Outlying Islands»]
+								Flannan Isles
+								North Rona
 					Wales
 						[‹NATIONAL PARKS›]
 							Snowdonia National Park
