@@ -2141,43 +2141,260 @@
 							Loch Lomond and The Trossachs National Park
 							Cairngorms National Park
 						[‹CANALS & NAVIGATIONS›]
+							Caledonian Canal
+							Crinan Canal
+							Forth & Clyde Canal
+							Union Canal
 						[‹RIVERS›]
 							River Forth
-								Forth Bridge
-								Forth Road Bridge
-						City of Edinburgh
-							Edinburgh
-								[«ATTRACTIONS»]
-									Royal Botanic Garden
-								[«BUILDINGS»]
-									Balmoral Hotel
-									National Gallery of Scotland
-								Calton Hill
-									National Monument
-									Nelson's Monument
-								Dugald Stewart Monument
-								Holyrood Park
-									Arthur's Seat
-									Dunsapie Loch
-									Salisbury Crags
-									St Anthony's Chapel
-									St Margaret's Loch
-								Princes Street Gardens
-									Ross Fountain
-									Scott Monument
-									Scottish American War Memorial
-								Royal Mile
+							River Clyde
+							River Tay
+						[«MAINLAND COUNCIL AREAS»]
+							[Aberdeen City]
+								{Aberdeen}
+								{City of Aberdeen}
+								[«AREAS»]
+							[Aberdeenshire]
+								[«TOWNS & VILLAGES»]
+							[Angus]
+								[«TOWNS & VILLAGES»]
+							[Argyll and Bute]
+								[«TOWNS & VILLAGES»]
+							City of Edinburgh
+								{Edinburgh}
+								[‹BUILDINGS›]
 									Edinburgh Castle
 									Palace of Holyrood House
 									St Giles' Cathedral
-								St Andrew's House
-							Leith
-								Royal Yacht Britannia
-							Portobello
-							South Queensferry
-						Fife
-							Inchcolm Island
-							North Queensferry
+									Balmoral Hotel
+									National Gallery of Scotland
+								[‹STRUCTURES›]
+									Scott Monument
+									Scottish American War Memorial
+									St Anthony's Chapel
+									National Monument
+									Nelson's Monument
+									Dugald Stewart Monument
+								[‹HILLS›]
+									Arthur's Seat
+										Salisbury Crags
+									Blackford Hill
+									Braid Hills
+									Calton Hill
+									Castle Rock
+									Corstorphine Hill
+									Craiglockhart Hill
+								[‹PARKS›]
+									Princes Street Gardens
+									Holyrood Park
+										Dunsapie Loch
+										St Margaret's Loch
+								[‹ATTRACTIONS›]
+									Royal Botanic Garden
+									Royal Yacht Britannia
+								[«AREAS»]
+									New Town
+									Old Town
+										Royal Mile
+									Portobello
+								[«TOWNS»]
+									Leith
+									Queensferry
+										{South Queensferry}
+							[Clackmannanshire]
+								[«TOWNS & VILLAGES»]
+							[Dumfries and Galloway]
+								[«TOWNS & VILLAGES»]
+							[Dundee City]
+								{Dundee}
+								{City of Dundee}
+								[«AREAS»]
+							[East Ayrshire]
+								[«TOWNS & VILLAGES»]
+							[East Dunbartonshire]
+								[«TOWNS & VILLAGES»]
+							[East Lothian]
+								[«TOWNS & VILLAGES»]
+							[East Renfrewshire]
+								[«TOWNS & VILLAGES»]
+							[Falkirk]
+								[«TOWNS & VILLAGES»]
+							[Fife]
+								[«TOWNS & VILLAGES»]
+							[Glasgow City]
+								{Glasgow}
+								{City of Glasgow}
+								[«AREAS»]
+							[Highland]
+								[«TOWNS & VILLAGES»]
+									Alness
+										{Alanais}
+									Altnaharra
+										{Allt na h-Aire}
+									Applecross
+										{A' Chomraich}
+									Ardersier
+										{Àird nan Saor}
+									Ardgour
+										{Àirde Gobhar}
+									Ardnamurchan
+										{Àird nam murchan}
+									Aviemore
+										{An Aghaidh Mhòr}
+									Avoch
+										{Abhach}
+									Back of Keppoch
+										{A' Cheapaich}
+									Ballachulish
+										{Baile a' Chaolais}
+									Beauly
+										{A' Mhanachainn}
+									Bettyhill
+										{Am Blàran Odhar}
+									Black Isle
+										{An t-Eilean Dubh}
+									Boat of Garten
+										{Coit a' Ghartain}
+									Bonar Bridge
+										{Drochaid a' Bhanna}
+									Broadford
+										{An t-Àth Leathann}
+									Brora
+										{Brùra}
+									Carrbridge
+										{Drochaid Chàrr}
+									Cromarty
+										{Cromba}
+									Culloden
+										{Cùil-lodair}
+									Dalwhinnie
+										{Dail Chuinnidh}
+									Dingwall
+										{Inbhir Pheofharain}
+									Dornie
+										{An Dòrnaidh}
+									Dornoch
+										{Dòrnach}
+									Drumnadrochit
+										{Druim na Droichaid}
+									Dulnain Bridge
+										{Drochaid Thulnain}
+									Durness
+										{Diuranais}
+									Duror
+										{Aphainn Duror}
+									Fearn
+										{Manachainn Rois}
+									Fort Augustus
+										{Cill Chuimein}
+									Fortrose
+										{A' Chananaich}
+									Fort William
+										{An Gearasdan}
+									Gairloch
+										{Geàrrloch}
+									Glencoe
+										{Gleann Comhann}
+									Glenfinnan
+										{Gleann Fionnan}
+									Golspie
+										{Goillspidh}
+									Grantown-on-Spey
+										{Baile nan Granndach}
+									Helmsdale
+										{Bun Ilidh}
+									Invergarry
+										{Inbhir Garadh}
+									Invergordon
+										{Inbhir Ghòrdain}
+									Inverie
+										{Inbhir Iodh}
+									Invermoriston
+										{Inbhir Mhoireastain}
+									Inverness
+										{Inbhir Nis}
+										{City of Inverness}
+									John o' Groats
+										{Taigh Iain Ghròt}
+									Kingussie
+										{Ceann a' Ghiùbhsaich}
+									Kinlochbervie
+										{Ceann Loch Biorbhaidh}
+									Kinlochleven
+										{Ceann Loch Lìobhann}
+									Knoydart
+										{Cnòideart}
+									Kyle of Lochalsh
+										{Caol Loch Aillse}
+									Lochinver
+										{Loch an Inbhir}
+									Mallaig
+										{Malaig}
+									Muir of Ord
+										{Am Blàr dubh}
+									Nairn
+										{Inbhir Narann}
+									Newtonmore
+										{Baile Ùr an t-Slèibh}
+									North Ballachulish
+										{Baile a' Chaolais air Tuath}
+									Onich
+										{Omhanaich}
+									Plockton
+										{Am Ploc}
+									Portmahomack
+										{Port Mo-Chalmaig}
+									Portree
+										{Port Rìgh}
+									Rosemarkie
+										{Ros Maircnidh}
+									Roy Bridge
+										{An Drochaid Ruaraidh}
+									Spean Bridge
+										{An Droichaid Spean}
+									Strathpeffer
+										{Srath Pheofhair}
+									Strontian
+										{Sròn an t-Sìthein}
+									Tain
+										{Baile Dhubhthaich}
+									Thurso
+										{Inbhir Theòrsa}
+									Tongue
+										{Tunga}
+									Torridon
+										{Toirbheartan}
+									Ullapool
+										{Ullapul}
+									Wick
+										{Inbhir Ùige}
+							[Inverclyde]
+								[«TOWNS & VILLAGES»]
+							[Midlothian]
+								[«TOWNS & VILLAGES»]
+							[Moray]
+								[«TOWNS & VILLAGES»]
+							[North Ayrshire]
+								[«TOWNS & VILLAGES»]
+							[North Lanarkshire]
+								[«TOWNS & VILLAGES»]
+							[Perth and Kinross]
+								[«TOWNS & VILLAGES»]
+							[Renfrewshire]
+								[«TOWNS & VILLAGES»]
+							[Scottish Borders]
+								[«TOWNS & VILLAGES»]
+							[South Ayrshire]
+								[«TOWNS & VILLAGES»]
+							[South Lanarkshire]
+								[«TOWNS & VILLAGES»]
+							Stirling
+								{City of Stirling}
+								[«TOWNS & VILLAGES»]
+							[West Dunbartonshire]
+								[«TOWNS & VILLAGES»]
+							[West Lothian]
+								[«TOWNS & VILLAGES»]
 						[«ISLANDS»]
 							Northern Isles
 								Orkney
