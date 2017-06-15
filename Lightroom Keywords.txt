@@ -3377,9 +3377,11 @@
 					[Down]
 						{County Down}
 						{Contae an Dúin}
+						[«TOWNS»]
 					[Fermanagh]
 						{County Fermanagh}
 						{Contae Fhear Manach}
+						[«TOWNS»]
 					[Londonderry]
 						{County Londonderry}
 						{County Derry}
@@ -3392,6 +3394,7 @@
 					[Tyrone]
 						{County Tyrone}
 						{Contae Thír Eoghain}
+						[«TOWNS»]
 			Vatican City
 				{Vatican City State}
 		North America
