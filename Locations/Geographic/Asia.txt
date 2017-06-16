@@ -1,0 +1,100 @@
+[«1» LOCATIONS]
+	[«1.1» GEOGRAPHIC]
+		Asia
+			Afghanistan
+				{Islamic Republic of Afghanistan}
+			Armenia
+				{Republic of Armenia}
+			Azerbaijan
+				{Republic of Azerbaijan}
+			Bahrain
+				{Kingdom of Bahrain}
+			Bangladesh
+				{People's Republic of Bangladesh}
+			Bhutan
+				{Kingdom of Bhutan}
+			British Indian Ocean Territory
+			Brunei
+				{Nation of Brunei}
+			Cambodia
+				{Kingdom of Cambodia}
+			China
+				{People's Republic of China}
+			Cyprus
+				{Republic of Cyprus}
+			East Timor
+				{Timor-Leste}
+				{Democratic Republic of Timor-Leste}
+			Georgia
+			Hong Kong
+			India
+				{Republic of India}
+			Indonesia
+				{Republic of Indonesia}
+			Iran
+				{Islamic Republic of Iran}
+			Iraq
+				{Republic of Iraq}
+			Israel
+				{State of Israel}
+			Japan
+			Jordan
+				{The Hashemite Kingdom of Jordan}
+			Kazakhstan
+				{Republic of Kazakhstan}
+			Kuwait
+				{State of Kuwait}
+			Kyrgyzstan
+				{Kyrgyz Republic}
+			Laos
+				{Lao People's Democratic Republic}
+			Lebanon
+				{Lebanese Republic}
+			Macau
+			Malaysia
+			Maldives
+				{Republic of Maldives}
+			Mongolia
+			Myanmar
+				{Burma}
+				{Republic of the Union of Myanmar}
+			Nepal
+				{Federal Democratic Republic of Nepal}
+			North Korea
+				{Democratic People's Republic of Korea}
+			Oman
+				{Sultanate of Oman}
+			Pakistan
+				{Islamic Republic of Pakistan}
+			Palestine
+				{State of Palestine}
+			Philippines
+				{Republic of the Philippines}
+			Qatar
+				{State of Qatar}
+			Saudi Arabia
+				{Kingdom of Saudi Arabia}
+			Singapore
+				{Republic of Singapore}
+			South Korea
+				{Republic of Korea}
+			Sri Lanka
+				{Democratic Socialist Republic of Sri Lanka}
+			Syria
+				{Syrian Arab Republic}
+			Taiwan
+				{Republic of China}
+			Tajikistan
+				{Republic of Tajikistan}
+			Thailand
+				{Kingdom of Thailand}
+			Turkey
+				{Republic of Turkey}
+			Turkmenistan
+			United Arab Emirates
+			Uzbekistan
+				{Republic of Uzbekistan}
+			Vietnam
+				{Socialist Republic of Vietnam}
+			Yemen
+				{Republic of Yemen}

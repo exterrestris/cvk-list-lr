@@ -1,0 +1,114 @@
+[«1» LOCATIONS]
+	[«1.1» GEOGRAPHIC]
+		Africa
+			Algeria
+				{People's Democratic Republic of Algeria}
+			Angola
+				{Republic of Angola}
+			Benin
+				{Republic of Benin}
+			Botswana
+				{Republic of Botswana}
+			Burkina Faso
+			Burundi
+				{Republic of Burundi}
+			Cameroon
+				{Republic of Cameroon}
+			Cape Verde
+				{Republic of Cabo Verde}
+			Central African Republic
+			Chad
+				{Republic of Chad}
+			Comoros
+				{Union of the Comoros}
+			Republic of the Congo
+				{West Congo}
+			Democratic Republic of the Congo
+				{Congo}
+			Djibouti
+				{Republic of Djibouti}
+			Egypt
+				{Arab Republic of Egypt}
+			Equatorial Guinea
+				{Republic of Equatorial Guinea}
+			Eritrea
+				{State of Eritrea}
+			Ethiopia
+				{Federal Democratic Republic of Ethiopia}
+			Gabon
+				{Gabonese Republic}
+			The Gambia
+				{Republic of The Gambia}
+			Ghana
+				{Republic of Ghana}
+			Guinea
+				{Republic of Guinea}
+			Guinea-Bissau
+				{Republic of Guinea-Bissau}
+			Ivory Coast
+				{Côte d'Ivoire}
+				{Republic of Côte d'Ivoire}
+			Kenya
+				{Republic of Kenya}
+			Lesotho
+				{Kingdom of Lesotho}
+			Liberia
+				{Republic of Liberia}
+			Libya
+			Madagascar
+				{Republic of Madagascar}
+			Malawi
+				{Republic of Malawi}
+			Mali
+				{Republic of Mali}
+			Mauritania
+				{Islamic Republic of Mauritania}
+			Mauritius
+				{Republic of Mauritius}
+			Mayotte
+				{Department of Mayotte}
+			Morocco
+				{Kingdom of Morocco}
+			Mozambique
+				{Republic of Mozambique}
+			Namibia
+				{Republic of Namibia}
+			Niger
+				{Republic of the Niger}
+			Nigeria
+				{Federal Republic of Nigeria}
+			Réunion
+				{La Réunion}
+			Rwanda
+				{Republic of Rwanda}
+			Saint Helena, Ascension and Tristan da Cunha
+			São Tomé and Príncipe
+				{Democratic Republic of São Tomé and Príncipe}
+			Senegal
+				{Republic of Senegal}
+			Seychelles
+				{Republic of Seychelles}
+			Sierra Leone
+				{Republic of Sierra Leone}
+			Somalia
+				{Federal Republic of Somalia}
+			South Africa
+				{Republic of South Africa}
+			South Sudan
+				{Republic of South Sudan}
+			Sudan
+				{Republic of the Sudan}
+			Swaziland
+				{Kingdom of Swaziland}
+			Tanzania
+				{United Republic of Tanzania}
+			Togo
+				{Togolese Republic}
+			Tunisia
+				{Tunisian Republic}
+			Uganda
+				{Republic of Uganda}
+			Zambia
+				{Republic of Zambia}
+			Zimbabwe
+				{Republic of Zimbabwe}

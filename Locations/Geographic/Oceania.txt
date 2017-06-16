@@ -1,0 +1,41 @@
+[«1» LOCATIONS]
+	[«1.1» GEOGRAPHIC]
+		Oceania
+			American Samoa
+			Australia
+				{Commonwealth of Australia}
+			Cook Islands
+			Fiji
+				{Republic of Fiji}
+			French Polynesia
+			Guam
+				{Territory of Guam}
+			Kiribati
+				{Republic of Kiribati}
+			Marshall Islands
+				{Republic of the Marshall Islands}
+			Micronesia
+				{Republic of the Marshall Islands}
+			Nauru
+				{Republic of Nauru}
+			New Zealand
+			Niue
+			Northern Mariana Islands
+				{Commonwealth of the Northern Mariana Islands}
+			Palau
+				{Republic of Palau}
+			Papua New Guinea
+				{Independent State of Papua New Guinea}
+			Pitcairn Islands
+				{Pitcairn, Henderson, Ducie and Oeno Islands}
+			Samoa
+				{Independent State of Samoa}
+			Solomon Islands
+			Tokelau
+			Tonga
+				{Kingdom of Tonga}
+			Tuvalu
+			Vanuatu
+				{Republic of Vanuatu}
+			Wallis and Futuna
+				{Territory of the Wallis and Futuna Islands}

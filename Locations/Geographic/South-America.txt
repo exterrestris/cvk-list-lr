@@ -1,0 +1,31 @@
+[«1» LOCATIONS]
+	[«1.1» GEOGRAPHIC]
+		South America
+			Argentina
+				{Argentine Republic}
+			Bolivia
+				{Plurinational State of Bolivia}
+			Brazil
+				{Federative Republic of Brazil}
+			Chile
+				{Republic of Chile}
+			Colombia
+				{Republic of Colombia}
+			Ecuador
+				{Republic of Ecuador}
+			Falkland Islands
+			French Guiana
+				{Guiana}
+			Guyana
+				{Co-operative Republic of Guyana}
+			Paraguay
+				{Republic of Paraguay}
+			Peru
+				{Republic of Peru}
+			South Georgia and the South Sandwich Islands
+			Suriname
+				{Republic of Suriname}
+			Uruguay
+				{Oriental Republic of Uruguay}
+			Venezuela
+				{Bolivarian Republic of Venezuela}

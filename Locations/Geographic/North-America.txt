@@ -1,0 +1,127 @@
+[«1» LOCATIONS]
+	[«1.1» GEOGRAPHIC]
+		North America
+			Anguilla
+			Antigua and Barbuda
+			Aruba
+			The Bahamas
+				{Commonwealth of The Bahamas}
+			Barbados
+			Belize
+			Bermuda
+			Bonaire
+			British Virgin Islands
+			Canada
+			Cayman Islands
+			Costa Rica
+				{Republic of Costa Rica}
+			Cuba
+				{Republic of Cuba}
+			Curaçao
+			Dominica
+				{Commonwealth of Dominica}
+			Dominican Republic
+			El Salvador
+				{Republic of El Salvador}
+			Greenland
+			Grenada
+			Guadeloupe
+			Guatemala
+				{Republic of Guatemala}
+			Haiti
+				{Republic of Haiti}
+			Honduras
+				{Republic of Honduras}
+			Jamaica
+			Martinique
+			Mexico
+				{United Mexican States}
+			Montserrat
+			Nicaragua
+				{Republic of Nicaragua}
+			Panama
+				{Republic of Panama}
+			Puerto Rico
+				{Commonwealth of Puerto Rico}
+			Saba
+			Saint Barthélemy
+				{Territorial collectivity of Saint-Barthélemy}
+			Saint Kitts and Nevis
+				{Federation of Saint Kitts and Nevis}
+			Saint Lucia
+			Saint Martin
+				{Collectivity of Saint Martin}
+			Saint Pierre and Miquelon
+				{Overseas Collectivity of Saint Pierre and Miquelon}
+			Saint Vincent and the Grenadines
+			Sint Eustatius
+			Sint Maarten
+			Trinidad and Tobago
+				{Republic of Trinidad and Tobago}
+			Turks and Caicos Islands
+			United States
+				{United States of America}
+				{USA}
+				[«MIDWEST»]
+					Illinois
+					Indiana
+					Iowa
+					Kansas
+					Michigan
+					Minnesota
+					Missouri
+					Nebraska
+					North Dakota
+					Ohio
+					South Dakota
+					Wisconsin
+				[«NORTHEAST»]
+					New England
+						Connecticut
+						Maine
+						Massachusetts
+							{Commonwealth of Massachusetts}
+						New Hampshire
+						Rhode Island
+						Vermont
+					Delaware
+					New Jersey
+					New York
+					Pennsylvania
+						{Commonwealth of Pennsylvania}
+				[«SOUTH»]
+					Alabama
+					Arkansas
+					District of Columbia
+						{Washington DC}
+					Florida
+					Georgia
+					Kentucky
+						{Commonwealth of Kentucky}
+					Louisiana
+					Maryland
+					Mississippi
+					North Carolina
+					Oklahoma
+					South Carolina
+					Tennessee
+					Texas
+					Virginia
+						{Commonwealth of Virginia}
+					West Virginia
+				[«WEST»]
+					Alaska
+					Arizona
+					California
+					Colorado
+					Hawaii
+					Idaho
+					Montana
+					Nevada
+					New Mexico
+					Oregon
+					Utah
+					Washington
+					Wyoming
+			United States Virgin Islands
+				{Virgin Islands of the United States}

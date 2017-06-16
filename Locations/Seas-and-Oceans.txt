@@ -1,0 +1,8 @@
+[«1» LOCATIONS]
+	[«1.2» SEAS & OCEANS]
+		Artic Ocean
+		Atlantic Ocean
+		Indian Ocean
+		Pacific Ocean
+		Southern Ocean
+			{Antarctic Ocean}

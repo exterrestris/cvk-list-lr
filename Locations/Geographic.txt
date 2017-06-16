@@ -1,0 +1,9 @@
+[«1» LOCATIONS]
+	[«1.1» GEOGRAPHIC]
+		Africa
+        Antarctica
+		Asia
+        Europe
+    	North America
+        Oceania
+        South America
